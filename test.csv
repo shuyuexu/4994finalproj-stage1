@@ -1,0 +1,804 @@
+Image1,Image2,Caption,Number,Clean_capt,Caption_count
+CXR2590_IM-1083-1001,CXR2590_IM-1083-2001,No acute disease.,2145,no acute disease,112
+CXR3057_IM-1424-1001-0001,CXR3057_IM-1424-1001-0001,No acute cardiopulmonary disease. .,1051,no acute cardiopulmonary disease,11
+CXR3446_IM-1669-1001,CXR3446_IM-1669-2001,Negative chest x-XXXX.,1131,negative chest x xxxx,13
+CXR1017_IM-0013-1001,CXR1017_IM-0013-1002,No active disease.,3616,no active disease,133
+CXR1204_IM-0138-1001,CXR1204_IM-0138-2001,No acute cardiopulmonary disease.,3339,no acute cardiopulmonary disease,105
+CXR798_IM-2332-1001,CXR798_IM-2332-2001,No acute abnormality.,369,no acute abnormality,25
+CXR3279_IM-1560-1001,CXR3279_IM-1560-1002,No acute cardiopulmonary abnormality.,1955,no acute cardiopulmonary abnormality,310
+CXR3428_IM-1657-1001,CXR3428_IM-1657-2001,No acute cardiopulmonary abnormality.,3813,no acute cardiopulmonary abnormality,310
+CXR2786_IM-1221-1001,CXR2786_IM-1221-2001,No acute cardiopulmonary abnormality..,2113,no acute cardiopulmonary abnormality,44
+CXR1440_IM-0284-1001,CXR1440_IM-0284-2001,No acute preoperative findings.,1473,no acute preoperative finding,13
+CXR210_IM-0730-1001,CXR210_IM-0730-2001,No acute pulmonary disease.,927,no acute pulmonary disease,47
+CXR1544_IM-0354-1001,CXR1544_IM-0354-1002,No acute cardiopulmonary abnormality.,866,no acute cardiopulmonary abnormality,310
+CXR1491_IM-0317-0001,CXR1491_IM-0317-1001,No acute cardiopulmonary abnormality.,1968,no acute cardiopulmonary abnormality,310
+CXR2558_IM-1062-10001,CXR2558_IM-1062-1001,No acute cardiopulmonary findings. .,1324,no acute cardiopulmonary finding,35
+CXR3708_IM-1852-1001,CXR3708_IM-1852-2001,No acute pulmonary disease.,1782,no acute pulmonary disease,47
+CXR1670_IM-0441-1001,CXR1670_IM-0441-2001,No active disease.,2766,no active disease,133
+CXR1054_IM-0040-1001,CXR1054_IM-0040-1002,No acute cardiopulmonary abnormality.,1569,no acute cardiopulmonary abnormality,310
+CXR3114_IM-1462-1001,CXR3114_IM-1462-1003,Heart size is normal and lungs are clear.,2372,heart size normal lung clear,6
+CXR406_IM-2054-1001,CXR406_IM-2054-1002,No acute cardiopulmonary abnormality.,36,no acute cardiopulmonary abnormality,310
+CXR3738_IM-1867-1001,CXR3738_IM-1867-2001,No acute cardiopulmonary findings.,2033,no acute cardiopulmonary finding,118
+CXR3495_IM-1700-1001,CXR3495_IM-1700-2001,1. No acute radiographic cardiopulmonary process.,1825,no acute radiographic cardiopulmonary process,71
+CXR6_IM-2192-1001,CXR6_IM-2192-2001,No acute cardiopulmonary findings.,3424,no acute cardiopulmonary finding,118
+CXR3391_IM-1637-1001,CXR3391_IM-1637-2001,No acute cardiopulmonary abnormality.,897,no acute cardiopulmonary abnormality,310
+CXR2815_IM-1240-1001,CXR2815_IM-1240-2001,No acute disease.,2456,no acute disease,112
+CXR658_IM-2234-1001,CXR658_IM-2234-12001,No acute cardiopulmonary disease,1254,no acute cardiopulmonary disease,22
+CXR2646_IM-1131-1001,CXR2646_IM-1131-1001,No acute pulmonary disease.,3179,no acute pulmonary disease,47
+CXR3906_IM-1984-2001,CXR3906_IM-1984-2001,1. No acute cardiopulmonary abnormalities.,1937,no acute cardiopulmonary abnormality,11
+CXR1208_IM-0141-1001,CXR1208_IM-0141-2001,No acute cardiopulmonary finding.,636,no acute cardiopulmonary find,32
+CXR270_IM-1168-1001,CXR270_IM-1168-2001,No acute cardiopulmonary findings. .,1652,no acute cardiopulmonary finding,35
+CXR633_IM-2213-1001,CXR633_IM-2213-2001,No evidence of active disease.,3455,no evidence active disease,49
+CXR1411_IM-0261-0001-0001,CXR1411_IM-0261-0001-0002,No acute cardiopulmonary process. .,3732,no acute cardiopulmonary process,14
+CXR258_IM-1078-1001,CXR258_IM-1078-1002,Hyperexpanded but clear lungs.,1666,hyperexpanded clear lung,7
+CXR2699_IM-1167-1001,CXR2699_IM-1167-2001,No acute cardiopulmonary disease.,4,no acute cardiopulmonary disease,105
+CXR1366_IM-0237-1001,CXR1366_IM-0237-2001,No acute cardiopulmonary finding.,2967,no acute cardiopulmonary find,32
+CXR812_IM-2343-1001,CXR812_IM-2343-2001,No acute cardiopulmonary abnormalities.,3937,no acute cardiopulmonary abnormality,117
+CXR368_IM-1832-1001,CXR368_IM-1832-2001,No acute cardiopulmonary findings.,3156,no acute cardiopulmonary finding,118
+CXR324_IM-1534-1001,CXR324_IM-1534-2001,No acute cardiopulmonary abnormality.,2502,no acute cardiopulmonary abnormality,310
+CXR141_IM-0260-1001,CXR141_IM-0260-2001,No acute cardiopulmonary abnormalities.,3452,no acute cardiopulmonary abnormality,117
+CXR1431_IM-0278-1001,CXR1431_IM-0278-2001,No acute cardiopulmonary findings.,974,no acute cardiopulmonary finding,118
+CXR758_IM-2309-1001,CXR758_IM-2309-2001,No acute cardiopulmonary abnormality.,106,no acute cardiopulmonary abnormality,310
+CXR893_IM-2403-1001,CXR893_IM-2403-2001,The heart size and cardiomediastinal silhouette are within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.,1971,heart size cardiomediastinal silhouette within normal limit pulmonary vasculature appear normal no focal air space consolidation no pleural effusion pneumothorax,10
+CXR3612_IM-1785-1001,CXR3612_IM-1785-2001,No acute disease.,3120,no acute disease,112
+CXR3497_IM-1702-1002,CXR3497_IM-1702-1002,No acute cardiopulmonary abnormality.,1629,no acute cardiopulmonary abnormality,310
+CXR1956_IM-0623-1001,CXR1956_IM-0623-2001,No acute cardiopulmonary abnormality.,3633,no acute cardiopulmonary abnormality,310
+CXR3184_IM-1503-1001,CXR3184_IM-1503-2001,No acute cardiopulmonary abnormality.,674,no acute cardiopulmonary abnormality,310
+CXR734_IM-2293-0001-0001,CXR734_IM-2293-0001-0002,No acute cardiopulmonary abnormalities.,2564,no acute cardiopulmonary abnormality,117
+CXR1415_IM-0264-1001,CXR1415_IM-0264-2001,Normal chest,3187,normal chest,36
+CXR2077_IM-0710-1001,CXR2077_IM-0710-2001,No acute cardiopulmonary findings.,374,no acute cardiopulmonary finding,118
+CXR1662_IM-0438-1001,CXR1662_IM-0438-1001,1. No acute cardiopulmonary findings.,2258,no acute cardiopulmonary finding,17
+CXR2142_IM-0764-1001,CXR2142_IM-0764-1001,No acute cardiopulmonary disease.,1999,no acute cardiopulmonary disease,105
+CXR121_IM-0142-1001,CXR121_IM-0142-2001,Normal chest.,2211,normal chest,17
+CXR2113_IM-0742-1002,CXR2113_IM-0742-1003,1. No acute radiographic cardiopulmonary process.,734,no acute radiographic cardiopulmonary process,71
+CXR1574_IM-0374-1001,CXR1574_IM-0374-1002,No acute cardiopulmonary abnormality.,3066,no acute cardiopulmonary abnormality,310
+CXR1249_IM-0169-1001,CXR1249_IM-0169-2001,No radiographic evidence of acute cardiopulmonary disease.,2838,no radiographic evidence acute cardiopulmonary disease,9
+CXR2248_IM-0844-1001,CXR2248_IM-0844-1002,No acute abnormality.,414,no acute abnormality,25
+CXR2053_IM-0691-1001,CXR2053_IM-0691-2001,No acute cardiopulmonary disease.,3565,no acute cardiopulmonary disease,105
+CXR3647_IM-1809-1001,CXR3647_IM-1809-2001,No acute cardiopulmonary findings.,1408,no acute cardiopulmonary finding,118
+CXR2685_IM-1158-1001,CXR2685_IM-1158-2001,No acute disease.,3196,no acute disease,112
+CXR846_IM-2368-0001-0003,CXR846_IM-2368-0001-0004,No evidence of active disease.,1507,no evidence active disease,49
+CXR1815_IM-0527-1001,CXR1815_IM-0527-2001,No acute cardiopulmonary findings.,783,no acute cardiopulmonary finding,118
+CXR1260_IM-0176-3001,CXR1260_IM-0176-3001,The heart size and cardiomediastinal silhouette are within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.,2823,heart size cardiomediastinal silhouette within normal limit pulmonary vasculature appear normal no focal air space consolidation no pleural effusion pneumothorax,10
+CXR391_IM-1986-1001,CXR391_IM-1986-1002,No acute cardiopulmonary findings.,3643,no acute cardiopulmonary finding,118
+CXR3254_IM-1543-1001,CXR3254_IM-1543-2001,No acute cardiopulmonary abnormalities.,1217,no acute cardiopulmonary abnormality,117
+CXR1810_IM-0524-1001,CXR1810_IM-0524-3001,No acute cardiopulmonary abnormality.,45,no acute cardiopulmonary abnormality,310
+CXR1636_IM-0415-1001,CXR1636_IM-0415-2001,Clear lungs.,199,clear lung,21
+CXR289_IM-1292-0001-0001,CXR289_IM-1292-0001-0002,No acute findings,1151,no acute finding,33
+CXR579_IM-2176-1001,CXR579_IM-2176-1002,No acute cardiopulmonary abnormality..,3381,no acute cardiopulmonary abnormality,44
+CXR2299_IM-0878-1001,CXR2299_IM-0878-2001,Negative for acute abnormality.,923,negative acute abnormality,31
+CXR446_IM-2080-1001,CXR446_IM-2080-2001,No acute preoperative findings.,2420,no acute preoperative finding,13
+CXR2041_IM-0685-1001,CXR2041_IM-0685-2001,No acute cardiopulmonary abnormalities.,3074,no acute cardiopulmonary abnormality,117
+CXR3908_IM-1985-1001,CXR3908_IM-1985-2001,No acute cardiopulmonary disease.,2248,no acute cardiopulmonary disease,105
+CXR866_IM-2386-3001,CXR866_IM-2386-3001,No acute cardiopulmonary abnormality.,2687,no acute cardiopulmonary abnormality,310
+CXR3424_IM-1656-1001,CXR3424_IM-1656-2001,No acute radiographic cardiopulmonary process.,114,no acute radiographic cardiopulmonary process,12
+CXR1948_IM-0616-1001,CXR1948_IM-0616-3001,No acute radiographic cardiopulmonary process.,920,no acute radiographic cardiopulmonary process,12
+CXR2935_IM-1337-1001,CXR2935_IM-1337-2001,No acute cardiopulmonary findings,99,no acute cardiopulmonary finding,21
+CXR3648_IM-1810-2001,CXR3648_IM-1810-3001,No acute cardiopulmonary finding.,2870,no acute cardiopulmonary find,32
+CXR393_IM-2002-1001,CXR393_IM-2002-2001,No acute cardiopulmonary abnormality. .,3769,no acute cardiopulmonary abnormality,52
+CXR935_IM-2432-1001,CXR935_IM-2432-2001,"Comparison XXXX, XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified. Stable chest.",1124,comparison xxxx xxxx well expand clear lung mediastinal contour within normal limit no acute cardiopulmonary abnormality identify stable chest,6
+CXR338_IM-1628-1001,CXR338_IM-1628-2001,No acute cardiopulmonary disease.,1694,no acute cardiopulmonary disease,105
+CXR1211_IM-0142-1001,CXR1211_IM-0142-1002,No acute cardiopulmonary abnormalities.,3314,no acute cardiopulmonary abnormality,117
+CXR425_IM-2068-1001,CXR425_IM-2068-2001,No acute cardiopulmonary process.,3416,no acute cardiopulmonary process,70
+CXR3357_IM-1610-1001,CXR3357_IM-1610-2001,No active disease.,138,no active disease,133
+CXR3016_IM-1392-1001,CXR3016_IM-1392-2001,No acute findings.,3255,no acute finding,29
+CXR2701_IM-1169-1001,CXR2701_IM-1169-1002,No active disease.,638,no active disease,133
+CXR1172_IM-0117-1001,CXR1172_IM-0117-1001,No acute cardiopulmonary findings.,3399,no acute cardiopulmonary finding,118
+CXR3315_IM-1586-1001,CXR3315_IM-1586-2001,No acute pulmonary disease.,2111,no acute pulmonary disease,47
+CXR2835_IM-1251-3001,CXR2835_IM-1251-3001,No acute cardiopulmonary findings.,1243,no acute cardiopulmonary finding,118
+CXR3127_IM-1470-1001,CXR3127_IM-1470-1001,1. No acute radiographic cardiopulmonary process.,1880,no acute radiographic cardiopulmonary process,71
+CXR3083_IM-1442-7001,CXR3083_IM-1442-8001,1. No acute pulmonary abnormality.,1281,no acute pulmonary abnormality,29
+CXR3802_IM-1912-1001-0001,CXR3802_IM-1912-1001-0002,No acute cardiopulmonary disease. .,324,no acute cardiopulmonary disease,11
+CXR2932_IM-1335-1001,CXR2932_IM-1335-1002,No acute cardiopulmonary abnormality.,643,no acute cardiopulmonary abnormality,310
+CXR2347_IM-0912-1001,CXR2347_IM-0912-1001,Negative for acute abnormality.,2653,negative acute abnormality,31
+CXR1180_IM-0123-1001,CXR1180_IM-0123-2001,No evidence of active disease.,538,no evidence active disease,49
+CXR2349_IM-0914-1001,CXR2349_IM-0914-2001,Normal chest.,1052,normal chest,17
+CXR1696_IM-0457-1001,CXR1696_IM-0457-4004,No acute cardiopulmonary disease.,1203,no acute cardiopulmonary disease,105
+CXR2539_IM-1050-3001,CXR2539_IM-1050-3001,1. No acute cardiopulmonary abnormalities.,164,no acute cardiopulmonary abnormality,11
+CXR2315_IM-0889-1002,CXR2315_IM-0889-1003,1. No acute radiographic cardiopulmonary process.,310,no acute radiographic cardiopulmonary process,71
+CXR81_IM-2343-2001,CXR81_IM-2343-2001,No acute cardiopulmonary abnormality identified.,2954,no acute cardiopulmonary abnormality identify,22
+CXR2450_IM-0986-1001,CXR2450_IM-0986-2001,No acute cardiopulmonary abnormality.,3140,no acute cardiopulmonary abnormality,310
+CXR3329_IM-1594-1001,CXR3329_IM-1594-2001,No acute cardiopulmonary abnormalities.,2102,no acute cardiopulmonary abnormality,117
+CXR1060_IM-0042-1001,CXR1060_IM-0042-2001,No acute process.,2614,no acute process,28
+CXR1565_IM-0368-1001,CXR1565_IM-0368-2001,1. No acute cardiopulmonary disease.,3824,no acute cardiopulmonary disease,26
+CXR3213_IM-1518-3001,CXR3213_IM-1518-3001,No acute cardiopulmonary disease.,3922,no acute cardiopulmonary disease,105
+CXR1368_IM-0237-1001,CXR1368_IM-0237-2001,No acute disease.,730,no acute disease,112
+CXR1148_IM-0100-1001,CXR1148_IM-0100-2001,Negative chest x-XXXX.,3907,negative chest x xxxx,13
+CXR3979_IM-2038-1001,CXR3979_IM-2038-2001,No acute cardiopulmonary abnormalities.,3749,no acute cardiopulmonary abnormality,117
+CXR3218_IM-1520-1001,CXR3218_IM-1520-3001,1. No acute pulmonary disease.,514,no acute pulmonary disease,16
+CXR1437_IM-0281-2001,CXR1437_IM-0281-3001,No acute cardiopulmonary abnormalities.,480,no acute cardiopulmonary abnormality,117
+CXR1358_IM-0232-3001,CXR1358_IM-0232-3001,No acute cardiopulmonary findings.,3429,no acute cardiopulmonary finding,118
+CXR982_IM-2470-1001,CXR982_IM-2470-3003,No active disease.,395,no active disease,133
+CXR504_IM-2122-1001,CXR504_IM-2122-2001,No acute cardiopulmonary abnormality.,1169,no acute cardiopulmonary abnormality,310
+CXR2260_IM-0852-1001,CXR2260_IM-0852-2001,Negative for acute abnormality.,410,negative acute abnormality,31
+CXR1800_IM-0520-1001,CXR1800_IM-0520-2001,No acute cardiopulmonary abnormality.,960,no acute cardiopulmonary abnormality,310
+CXR3561_IM-1746-1001,CXR3561_IM-1746-2001,Negative chest .,3927,negative chest,11
+CXR3439_IM-1664-1001,CXR3439_IM-1664-2001,No acute findings.,3073,no acute finding,29
+CXR1345_IM-0223-1001,CXR1345_IM-0223-2001,Normal chest,486,normal chest,36
+CXR2929_IM-1331-1001,CXR2929_IM-1331-2001,No acute disease.,3098,no acute disease,112
+CXR2317_IM-0890-1001,CXR2317_IM-0890-2001,No active disease.,186,no active disease,133
+CXR1131_IM-0088-0001-0001,CXR1131_IM-0088-0001-0002,No acute cardiopulmonary abnormality identified.,1295,no acute cardiopulmonary abnormality identify,22
+CXR3284_IM-1565-20001,CXR3284_IM-1565-20001,1. No evidence of active disease.,1501,no evidence active disease,44
+CXR1004_IM-0005-1001,CXR1004_IM-0005-2001,No acute cardiopulmonary disease.,3031,no acute cardiopulmonary disease,105
+CXR3262_IM-1548-1001,CXR3262_IM-1548-2001,No acute cardiopulmonary process.,2436,no acute cardiopulmonary process,70
+CXR2563_IM-1066-1001,CXR2563_IM-1066-2001,No acute cardiopulmonary findings. .,1891,no acute cardiopulmonary finding,35
+CXR2890_IM-1293-8001,CXR2890_IM-1293-8001,1. No acute radiographic cardiopulmonary process.,521,no acute radiographic cardiopulmonary process,71
+CXR3302_IM-1579-1001,CXR3302_IM-1579-2001,No acute disease.,2351,no acute disease,112
+CXR3857_IM-1952-1001,CXR3857_IM-1952-1001,1. No acute radiographic cardiopulmonary process.,2044,no acute radiographic cardiopulmonary process,71
+CXR113_IM-0086-3001,CXR113_IM-0086-3001,1. No acute cardiopulmonary disease.,1493,no acute cardiopulmonary disease,26
+CXR1114_IM-0079-1001,CXR1114_IM-0079-2001,No acute disease.,2646,no acute disease,112
+CXR2378_IM-0938-1001,CXR2378_IM-0938-1002,No acute cardiopulmonary abnormalities.,2894,no acute cardiopulmonary abnormality,117
+CXR3098_IM-1450-1001,CXR3098_IM-1450-1002,No acute cardiopulmonary abnormality.,2743,no acute cardiopulmonary abnormality,310
+CXR3661_IM-1821-1001,CXR3661_IM-1821-2001,No acute cardiopulmonary abnormality.,2801,no acute cardiopulmonary abnormality,310
+CXR738_IM-2296-1001,CXR738_IM-2296-2001,No active disease.,1344,no active disease,133
+CXR441_IM-2078-1001,CXR441_IM-2078-1002,No acute cardiopulmonary abnormality.,2749,no acute cardiopulmonary abnormality,310
+CXR3073_IM-1434-1001,CXR3073_IM-1434-2001,Negative for acute cardiopulmonary findings.,2768,negative acute cardiopulmonary finding,7
+CXR1702_IM-0463-1001,CXR1702_IM-0463-2001,1. No acute radiographic cardiopulmonary process.,2300,no acute radiographic cardiopulmonary process,71
+CXR36_IM-1776-1001,CXR36_IM-1776-2001,No acute cardiopulmonary abnormality..,2236,no acute cardiopulmonary abnormality,44
+CXR1223_IM-0150-1001,CXR1223_IM-0150-2001,No evidence of active disease.,878,no evidence active disease,49
+CXR252_IM-1038-1001,CXR252_IM-1038-2001,No acute cardiopulmonary disease.,2876,no acute cardiopulmonary disease,105
+CXR2584_IM-1081-1001,CXR2584_IM-1081-2001,No acute cardiopulmonary abnormality identified.,2141,no acute cardiopulmonary abnormality identify,22
+CXR98_IM-2467-1001,CXR98_IM-2467-4004,"No acute or active cardiac, pulmonary or pleural disease.",993,no acute active cardiac pulmonary pleural disease,21
+CXR3262_IM-1548-3001,CXR3262_IM-1548-3001,No acute cardiopulmonary process.,2436,no acute cardiopulmonary process,70
+CXR3597_IM-1775-1001,CXR3597_IM-1775-2001,No acute cardiopulmonary abnormality. .,989,no acute cardiopulmonary abnormality,52
+CXR3459_IM-1679-1001,CXR3459_IM-1679-2001,Negative for acute cardiopulmonary disease.,2328,negative acute cardiopulmonary disease,8
+CXR3298_IM-1575-1001,CXR3298_IM-1575-1002,No acute cardiopulmonary findings.,2705,no acute cardiopulmonary finding,118
+CXR1726_IM-0479-1001,CXR1726_IM-0479-2001,No active disease.,1573,no active disease,133
+CXR2056_IM-0694-1001-0001,CXR2056_IM-0694-1001-0002,No acute cardiopulmonary disease.,3329,no acute cardiopulmonary disease,105
+CXR1928_IM-0600-1001,CXR1928_IM-0600-2001,No acute findings.,1660,no acute finding,29
+CXR1323_IM-0209-1001,CXR1323_IM-0209-2001,No acute cardiopulmonary abnormalities.,1706,no acute cardiopulmonary abnormality,117
+CXR3426_IM-1656-1001,CXR3426_IM-1656-2001,No acute cardiopulmonary disease.,391,no acute cardiopulmonary disease,105
+CXR2516_IM-1036-1001,CXR2516_IM-1036-2001,No acute findings,579,no acute finding,33
+CXR434_IM-2074-1001,CXR434_IM-2074-1001,No acute abnormality. .,3658,no acute abnormality,8
+CXR3493_IM-1698-1001,CXR3493_IM-1698-1002,No acute cardiopulmonary abnormality.,1340,no acute cardiopulmonary abnormality,310
+CXR133_IM-0212-3001,CXR133_IM-0212-3001,No acute disease.,2700,no acute disease,112
+CXR1163_IM-0108-1001,CXR1163_IM-0108-2001,No acute cardiopulmonary abnormality.,3646,no acute cardiopulmonary abnormality,310
+CXR1310_IM-0202-1001,CXR1310_IM-0202-2001,No acute cardiopulmonary abnormality.,2197,no acute cardiopulmonary abnormality,310
+CXR1461_IM-0299-1001,CXR1461_IM-0299-2001,No acute disease.,2444,no acute disease,112
+CXR1516_IM-0334-1001,CXR1516_IM-0334-2001,No acute disease.,2103,no acute disease,112
+CXR3867_IM-1960-1001,CXR3867_IM-1960-2001,No acute cardiopulmonary findings.,1797,no acute cardiopulmonary finding,118
+CXR3487_IM-1696-1001,CXR3487_IM-1696-2001,1. No acute pulmonary abnormality.,1337,no acute pulmonary abnormality,29
+CXR2447_IM-0983-1001,CXR2447_IM-0983-2001,1. No acute intrathoracic abnormality.,3391,no acute intrathoracic abnormality,15
+CXR1824_IM-0535-1001,CXR1824_IM-0535-1001,No active disease.,3157,no active disease,133
+CXR2767_IM-1212-1001,CXR2767_IM-1212-2001,No evidence of active disease.,1369,no evidence active disease,49
+CXR158_IM-0377-1001,CXR158_IM-0377-2001,No acute cardiopulmonary abnormalities.,498,no acute cardiopulmonary abnormality,117
+CXR3099_IM-1450-1001,CXR3099_IM-1450-2001,Negative for acute cardiopulmonary abnormality.,2914,negative acute cardiopulmonary abnormality,17
+CXR3583_IM-1762-1001,CXR3583_IM-1762-2001,No acute cardiopulmonary disease.,992,no acute cardiopulmonary disease,105
+CXR2151_IM-0771-1001,CXR2151_IM-0771-2001,"Hyperinflated lungs, air trapping versus inspiratory XXXX.",2690,hyperinflated lung air trap versus inspiratory xxxx,6
+CXR3712_IM-1854-1001,CXR3712_IM-1854-2001,1. No evidence of active disease.,2411,no evidence active disease,44
+CXR3026_IM-1401-1001,CXR3026_IM-1401-2001,No active disease.,560,no active disease,133
+CXR563_IM-2164-1001,CXR563_IM-2164-2001,No evidence of acute cardiopulmonary process.,822,no evidence acute cardiopulmonary process,21
+CXR396_IM-2024-2002,CXR396_IM-2024-3003,No evidence of active disease.,3004,no evidence active disease,49
+CXR2981_IM-1371-1001,CXR2981_IM-1371-1002,No acute cardiopulmonary abnormality.,1110,no acute cardiopulmonary abnormality,310
+CXR3898_IM-1978-1001,CXR3898_IM-1978-3001,Negative for acute abnormality.,1823,negative acute abnormality,31
+CXR3288_IM-1569-1001,CXR3288_IM-1569-2001,No acute cardiopulmonary abnormality..,2220,no acute cardiopulmonary abnormality,44
+CXR3375_IM-1624-1003,CXR3375_IM-1624-1003,No acute cardiopulmonary findings.,3343,no acute cardiopulmonary finding,118
+CXR2086_IM-0717-1001,CXR2086_IM-0717-2001,No acute cardiopulmonary process.,3855,no acute cardiopulmonary process,70
+CXR1349_IM-0227-1001,CXR1349_IM-0227-2001,1. No evidence of active disease.,3684,no evidence active disease,44
+CXR1584_IM-0379-1001,CXR1584_IM-0379-2001,Negative for acute cardiopulmonary abnormality.,600,negative acute cardiopulmonary abnormality,17
+CXR3180_IM-1500-2001,CXR3180_IM-1500-3001,No acute cardiopulmonary disease.,317,no acute cardiopulmonary disease,105
+CXR986_IM-2473-2002,CXR986_IM-2473-3003,No evidence of active disease.,592,no evidence active disease,49
+CXR870_IM-2391-1001,CXR870_IM-2391-2001,No active disease.,2726,no active disease,133
+CXR3027_IM-1402-1001,CXR3027_IM-1402-1001,No acute cardiopulmonary abnormality.,686,no acute cardiopulmonary abnormality,310
+CXR2829_IM-1247-1001,CXR2829_IM-1247-2001,1. No acute cardiopulmonary disease.,2448,no acute cardiopulmonary disease,26
+CXR1222_IM-0150-1001,CXR1222_IM-0150-2001,No active disease.,865,no active disease,133
+CXR3655_IM-1817-1001,CXR3655_IM-1817-2001,1. No acute cardiopulmonary abnormality.,1886,no acute cardiopulmonary abnormality,19
+CXR152_IM-0335-1001,CXR152_IM-0335-2001,No acute findings.,3714,no acute finding,29
+CXR1861_IM-0558-1001,CXR1861_IM-0558-2001,There is no radiographic evidence of acute cardiopulmonary disease.,1519,no radiographic evidence acute cardiopulmonary disease,6
+CXR3125_IM-1469-1001,CXR3125_IM-1469-2001,No acute cardiopulmonary abnormality.,1571,no acute cardiopulmonary abnormality,310
+CXR3660_IM-1820-1001,CXR3660_IM-1820-2001,Negative for acute cardiopulmonary abnormality.,2859,negative acute cardiopulmonary abnormality,17
+CXR2621_IM-1109-1001,CXR2621_IM-1109-2001,No active disease.,2723,no active disease,133
+CXR766_IM-2311-1001,CXR766_IM-2311-1001,Heart size is normal and the lungs are clear.,403,heart size normal lung clear,8
+CXR3495_IM-1700-3001,CXR3495_IM-1700-3001,1. No acute radiographic cardiopulmonary process.,1825,no acute radiographic cardiopulmonary process,71
+CXR1309_IM-0201-1001-0001,CXR1309_IM-0201-1001-0002,No acute cardiopulmonary findings. .,1746,no acute cardiopulmonary finding,35
+CXR32_IM-1511-1001,CXR32_IM-1511-4001,No acute disease.,2693,no acute disease,112
+CXR706_IM-2269-1001,CXR706_IM-2269-4004,No acute findings,1142,no acute finding,33
+CXR2427_IM-0969-4001,CXR2427_IM-0969-5001,No acute cardiopulmonary abnormalities.,2158,no acute cardiopulmonary abnormality,117
+CXR320_IM-1511-1001,CXR320_IM-1511-1002,Heart size is normal and the lungs are clear.,2421,heart size normal lung clear,8
+CXR2210_IM-0817-1001,CXR2210_IM-0817-2001,1. No acute cardiopulmonary process.,1809,no acute cardiopulmonary process,6
+CXR3835_IM-1938-3001,CXR3835_IM-1938-4001,No acute cardiopulmonary abnormality.,3127,no acute cardiopulmonary abnormality,310
+CXR1418_IM-0267-1001,CXR1418_IM-0267-2002,No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.,765,no comparison chest x xxxx well expand clear lung mediastinal contour within normal limit no acute cardiopulmonary abnormality identify,16
+CXR2773_IM-1214-1001,CXR2773_IM-1214-2001,No acute cardiopulmonary disease.,1367,no acute cardiopulmonary disease,105
+CXR632_IM-2213-1001,CXR632_IM-2213-1002,No acute cardiopulmonary abnormality.,3206,no acute cardiopulmonary abnormality,310
+CXR1894_IM-0581-1001,CXR1894_IM-0581-2001,No acute disease.,2754,no acute disease,112
+CXR3390_IM-1636-3001,CXR3390_IM-1636-3001,No evidence of active disease.,851,no evidence active disease,49
+CXR280_IM-1232-1001,CXR280_IM-1232-2001,No active disease.,2132,no active disease,133
+CXR1986_IM-0643-1001,CXR1986_IM-0643-1001,No acute cardiopulmonary finding.,3044,no acute cardiopulmonary find,32
+CXR1091_IM-0062-1001,CXR1091_IM-0062-2001,No active disease.,1067,no active disease,133
+CXR1149_IM-0101-1001,CXR1149_IM-0101-2001,1. No acute cardiopulmonary abnormality.,3754,no acute cardiopulmonary abnormality,19
+CXR2291_IM-0874-1001,CXR2291_IM-0874-2001,No acute abnormality. .,3773,no acute abnormality,8
+CXR1301_IM-0198-1001,CXR1301_IM-0198-2001,No acute findings,2919,no acute finding,33
+CXR80_IM-2333-3001,CXR80_IM-2333-3001,No acute cardiopulmonary abnormality.,3198,no acute cardiopulmonary abnormality,310
+CXR2362_IM-0926-1001,CXR2362_IM-0926-1002,No acute cardiopulmonary abnormality.,1304,no acute cardiopulmonary abnormality,310
+CXR2103_IM-0734-0001-0001,CXR2103_IM-0734-0001-0002,1. No evidence of active disease.,284,no evidence active disease,44
+CXR3959_IM-2023-1001,CXR3959_IM-2023-3001,Clear lungs. No acute cardiopulmonary abnormality. .,957,clear lung no acute cardiopulmonary abnormality,14
+CXR761_IM-2310-1001,CXR761_IM-2310-2001,XXXX change. Hypoinflation with no visible active cardiopulmonary disease.,856,xxxx change hypoinflation no visible active cardiopulmonary disease,6
+CXR2844_IM-1254-1001,CXR2844_IM-1254-2001,No acute cardiopulmonary process. .,752,no acute cardiopulmonary process,14
+CXR562_IM-2163-1001,CXR562_IM-2163-2001,"No acute or active cardiac, pulmonary or pleural disease.",919,no acute active cardiac pulmonary pleural disease,21
+CXR1554_IM-0361-1001,CXR1554_IM-0361-1002,No acute disease.,135,no acute disease,112
+CXR2190_IM-0800-2001,CXR2190_IM-0800-3001,Clear lungs.,2710,clear lung,21
+CXR242_IM-0963-1001,CXR242_IM-0963-2001,No acute cardiopulmonary findings. .,2040,no acute cardiopulmonary finding,35
+CXR3181_IM-1500-1001,CXR3181_IM-1500-1001,No acute disease.,433,no acute disease,112
+CXR3047_IM-1418-1001,CXR3047_IM-1418-3001,No evidence of active disease.,1917,no evidence active disease,49
+CXR1427_IM-0273-12012,CXR1427_IM-0273-12012,No acute cardiopulmonary abnormality.,524,no acute cardiopulmonary abnormality,310
+CXR1983_IM-0640-2002,CXR1983_IM-0640-3003,No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.,3786,no comparison chest x xxxx well expand clear lung mediastinal contour within normal limit no acute cardiopulmonary abnormality identify,16
+CXR3269_IM-1552-1001,CXR3269_IM-1552-1002,No active disease.,1028,no active disease,133
+CXR879_IM-2393-12012,CXR879_IM-2393-3003,Negative chest x-XXXX.,1757,negative chest x xxxx,13
+CXR2680_IM-1154-1001,CXR2680_IM-1154-2001,No acute pulmonary disease.,3953,no acute pulmonary disease,47
+CXR181_IM-0524-1001,CXR181_IM-0524-1002,No acute cardiopulmonary abnormality.,3188,no acute cardiopulmonary abnormality,310
+CXR1794_IM-0515-1001,CXR1794_IM-0515-2001,No acute cardiopulmonary process.,72,no acute cardiopulmonary process,70
+CXR3989_IM-2042-1001,CXR3989_IM-2042-2001,No acute cardiopulmonary findings,299,no acute cardiopulmonary finding,21
+CXR3521_IM-1719-1001,CXR3521_IM-1719-2001,No evidence of acute cardiopulmonary process.,1514,no evidence acute cardiopulmonary process,21
+CXR490_IM-2110-1001,CXR490_IM-2110-2001,There is no evidence of acute cardiopulmonary disease. .,2261,no evidence acute cardiopulmonary disease,6
+CXR3039_IM-1412-1001,CXR3039_IM-1412-2001,No acute cardiopulmonary findings.,3904,no acute cardiopulmonary finding,118
+CXR3897_IM-1978-1001,CXR3897_IM-1978-2001,No acute disease.,2306,no acute disease,112
+CXR2605_IM-1095-1001,CXR2605_IM-1095-1001,1. No acute pulmonary disease.,1023,no acute pulmonary disease,16
+CXR3143_IM-1477-1001,CXR3143_IM-1477-2001,1. No acute pulmonary disease.,332,no acute pulmonary disease,16
+CXR3416_IM-1651-0001-0001,CXR3416_IM-1651-0001-0002,No acute cardiopulmonary abnormality.,3582,no acute cardiopulmonary abnormality,310
+CXR2663_IM-1144-1001,CXR2663_IM-1144-2001,No active disease.,762,no active disease,133
+CXR2232_IM-0832-1001,CXR2232_IM-0832-2001,No acute cardiopulmonary abnormality.,2543,no acute cardiopulmonary abnormality,310
+CXR718_IM-2280-1001,CXR718_IM-2280-3001,No acute pulmonary disease.,2355,no acute pulmonary disease,47
+CXR3599_IM-1775-1001,CXR3599_IM-1775-2001,No acute cardiopulmonary finding.,3215,no acute cardiopulmonary find,32
+CXR3129_IM-1471-2001,CXR3129_IM-1471-3001,No acute cardiopulmonary findings.,2309,no acute cardiopulmonary finding,118
+CXR3023_IM-1398-1001,CXR3023_IM-1398-1001,No acute disease.,305,no acute disease,112
+CXR2147_IM-0767-1001,CXR2147_IM-0767-2001,No acute findings.,2718,no acute finding,29
+CXR3347_IM-1605-2001,CXR3347_IM-1605-4004,1. No acute pulmonary abnormality.,868,no acute pulmonary abnormality,29
+CXR14_IM-0256-1001,CXR14_IM-0256-2001,No acute findings,1029,no acute finding,33
+CXR3488_IM-1696-1001,CXR3488_IM-1696-4004,1. No acute radiographic cardiopulmonary process.,2803,no acute radiographic cardiopulmonary process,71
+CXR1643_IM-0421-3001,CXR1643_IM-0421-3001,No acute cardiopulmonary abnormality identified.,1290,no acute cardiopulmonary abnormality identify,22
+CXR2075_IM-0708-1001,CXR2075_IM-0708-2001,Negative for acute abnormality.,130,negative acute abnormality,31
+CXR1535_IM-0346-1001,CXR1535_IM-0346-2001,No acute cardiopulmonary abnormality.,1349,no acute cardiopulmonary abnormality,310
+CXR1660_IM-0436-1001,CXR1660_IM-0436-2002,No acute cardiopulmonary abnormality. .,2163,no acute cardiopulmonary abnormality,52
+CXR3366_IM-1618-1001,CXR3366_IM-1618-1002,No active disease.,3826,no active disease,133
+CXR3117_IM-1465-1001,CXR3117_IM-1465-2001,Normal chest.,2135,normal chest,17
+CXR950_IM-2446-1003002,CXR950_IM-2446-1004003,No acute cardiopulmonary abnormalities.,635,no acute cardiopulmonary abnormality,117
+CXR2270_IM-0859-1001,CXR2270_IM-0859-2001,No acute cardiopulmonary process.,581,no acute cardiopulmonary process,70
+CXR939_IM-2435-1001,CXR939_IM-2435-2001,No acute pulmonary disease.,2831,no acute pulmonary disease,47
+CXR3893_IM-1975-2001,CXR3893_IM-1975-3001,No acute cardiopulmonary findings.,2622,no acute cardiopulmonary finding,118
+CXR3888_IM-1972-2001,CXR3888_IM-1972-2001,No active disease.,1162,no active disease,133
+CXR1788_IM-0513-1001,CXR1788_IM-0513-1002,1. No acute cardiopulmonary abnormality.,3124,no acute cardiopulmonary abnormality,19
+CXR2866_IM-1273-1001,CXR2866_IM-1273-2001,Normal chest,3465,normal chest,36
+CXR791_IM-2330-1001,CXR791_IM-2330-2001,No acute cardiopulmonary abnormalities.,3317,no acute cardiopulmonary abnormality,117
+CXR278_IM-1218-1001,CXR278_IM-1218-2001,Negative for acute cardiopulmonary disease.,2526,negative acute cardiopulmonary disease,8
+CXR2243_IM-0840-1001,CXR2243_IM-0840-2001,No acute cardiopulmonary abnormality.,3046,no acute cardiopulmonary abnormality,310
+CXR1590_IM-0383-3001,CXR1590_IM-0383-4001,No acute cardiopulmonary abnormality..,596,no acute cardiopulmonary abnormality,44
+CXR3560_IM-1745-1001,CXR3560_IM-1745-1002,No active disease.,3728,no active disease,133
+CXR3634_IM-1801-1001,CXR3634_IM-1801-2001,No acute cardiopulmonary abnormality.,589,no acute cardiopulmonary abnormality,310
+CXR552_IM-2155-1001,CXR552_IM-2155-2001,No acute cardiopulmonary abnormality.,3134,no acute cardiopulmonary abnormality,310
+CXR38_IM-1911-1001,CXR38_IM-1911-2001,No acute cardiopulmonary process.,1948,no acute cardiopulmonary process,70
+CXR323_IM-1526-1001,CXR323_IM-1526-2001,No acute cardiopulmonary abnormalities.,2179,no acute cardiopulmonary abnormality,117
+CXR2440_IM-0978-1001,CXR2440_IM-0978-2001,Emphysema without acute disease.,3755,emphysema without acute disease,6
+CXR3970_IM-2031-1001,CXR3970_IM-2031-2001,No acute cardiopulmonary abnormality. .,786,no acute cardiopulmonary abnormality,52
+CXR942_IM-2438-1001,CXR942_IM-2438-2001,1. No evidence of active disease.,125,no evidence active disease,44
+CXR3679_IM-1831-1001,CXR3679_IM-1831-2001,Normal chest exam.,1088,normal chest exam,10
+CXR3401_IM-1645-1001,CXR3401_IM-1645-2001,No acute cardiopulmonary abnormality..,3836,no acute cardiopulmonary abnormality,44
+CXR119_IM-0128-1001,CXR119_IM-0128-1001,"No acute or active cardiac, pulmonary or pleural disease.",2708,no acute active cardiac pulmonary pleural disease,21
+CXR1396_IM-0252-1001,CXR1396_IM-0252-2001,No acute cardiopulmonary abnormality.,505,no acute cardiopulmonary abnormality,310
+CXR2252_IM-0844-1001,CXR2252_IM-0844-1002,Normal chest,3785,normal chest,36
+CXR2963_IM-1356-1001,CXR2963_IM-1356-2001,No acute cardiopulmonary process.,2070,no acute cardiopulmonary process,70
+CXR2480_IM-1009-1001,CXR2480_IM-1009-2001,No acute cardiopulmonary abnormalities.,3495,no acute cardiopulmonary abnormality,117
+CXR857_IM-2378-1001,CXR857_IM-2378-3003,1. No evidence of active disease.,1265,no evidence active disease,44
+CXR1780_IM-0509-1001,CXR1780_IM-0509-2001,No acute cardiopulmonary abnormality. .,67,no acute cardiopulmonary abnormality,52
+CXR2091_IM-0722-1001,CXR2091_IM-0722-2001,No acute process.,3605,no acute process,28
+CXR1526_IM-0341-1001,CXR1526_IM-0341-2001,1. No acute cardiopulmonary findings.,1857,no acute cardiopulmonary finding,17
+CXR2649_IM-1133-2001,CXR2649_IM-1133-2001,No acute cardiopulmonary abnormalities.,719,no acute cardiopulmonary abnormality,117
+CXR1055_IM-0040-1001,CXR1055_IM-0040-2001,No acute cardiopulmonary disease.,1643,no acute cardiopulmonary disease,105
+CXR3810_IM-1920-1001,CXR3810_IM-1920-2001,1. No acute cardiopulmonary disease.,814,no acute cardiopulmonary disease,26
+CXR1656_IM-0431-1001,CXR1656_IM-0431-2001,Clear lungs. No acute cardiopulmonary abnormality. .,1436,clear lung no acute cardiopulmonary abnormality,14
+CXR3836_IM-1939-1001,CXR3836_IM-1939-2001,1. No acute radiographic cardiopulmonary process.,3379,no acute radiographic cardiopulmonary process,71
+CXR1688_IM-0450-1001,CXR1688_IM-0450-2001,No acute cardiopulmonary abnormality.,2413,no acute cardiopulmonary abnormality,310
+CXR2201_IM-0811-1002,CXR2201_IM-0811-1002,No acute cardiopulmonary abnormality..,1091,no acute cardiopulmonary abnormality,44
+CXR114_IM-0096-1001,CXR114_IM-0096-2001,No acute cardiopulmonary abnormalities.,1232,no acute cardiopulmonary abnormality,117
+CXR1165_IM-0110-1001,CXR1165_IM-0110-1001,"No acute or active cardiac, pulmonary or pleural disease.",3149,no acute active cardiac pulmonary pleural disease,21
+CXR1908_IM-0590-1001,CXR1908_IM-0590-2001,No acute cardiopulmonary disease.,2535,no acute cardiopulmonary disease,105
+CXR482_IM-2106-2001,CXR482_IM-2106-3001,No acute cardiopulmonary abnormality..,2762,no acute cardiopulmonary abnormality,44
+CXR3335_IM-1598-1001,CXR3335_IM-1598-2001,No acute cardiopulmonary process.,1104,no acute cardiopulmonary process,70
+CXR2949_IM-1348-1001,CXR2949_IM-1348-1002,No acute cardiopulmonary abnormality.,2353,no acute cardiopulmonary abnormality,310
+CXR1276_IM-0184-3001,CXR1276_IM-0184-3001,No acute cardiopulmonary abnormality.,2591,no acute cardiopulmonary abnormality,310
+CXR2442_IM-0979-1001,CXR2442_IM-0979-2001,No acute cardiopulmonary abnormality.,3648,no acute cardiopulmonary abnormality,310
+CXR3015_IM-1392-1001,CXR3015_IM-1392-1001,No acute cardiopulmonary findings.,3003,no acute cardiopulmonary finding,118
+CXR1205_IM-0138-1001,CXR1205_IM-0138-1002,Normal chest exam.,3318,normal chest exam,10
+CXR2819_IM-1243-1001,CXR2819_IM-1243-1001,No active disease.,1726,no active disease,133
+CXR3902_IM-1981-1001,CXR3902_IM-1981-2001,No active disease.,1042,no active disease,133
+CXR707_IM-2270-1001,CXR707_IM-2270-1002,Normal chest,1096,normal chest,36
+CXR1184_IM-0124-1001,CXR1184_IM-0124-2001,No acute cardiopulmonary findings.,463,no acute cardiopulmonary finding,118
+CXR2433_IM-0975-1001,CXR2433_IM-0975-2001,No acute cardiopulmonary abnormality.,2151,no acute cardiopulmonary abnormality,310
+CXR3355_IM-1609-1001,CXR3355_IM-1609-1002,No acute cardiopulmonary abnormalities.,365,no acute cardiopulmonary abnormality,117
+CXR1412_IM-0262-1001,CXR1412_IM-0262-3003,No acute cardiopulmonary disease,3486,no acute cardiopulmonary disease,22
+CXR2243_IM-0840-3001,CXR2243_IM-0840-4001,No acute cardiopulmonary abnormality.,3046,no acute cardiopulmonary abnormality,310
+CXR3291_IM-1572-1001,CXR3291_IM-1572-2001,No acute cardiopulmonary disease,1723,no acute cardiopulmonary disease,22
+CXR309_IM-1444-1001,CXR309_IM-1444-2001,No acute cardiopulmonary abnormality.,2251,no acute cardiopulmonary abnormality,310
+CXR1757_IM-0495-1001,CXR1757_IM-0495-1001,1. No acute radiographic cardiopulmonary process.,84,no acute radiographic cardiopulmonary process,71
+CXR1612_IM-0397-1001,CXR1612_IM-0397-1001,No evidence of acute cardiopulmonary process.,3897,no evidence acute cardiopulmonary process,21
+CXR971_IM-2461-1001,CXR971_IM-2461-2001,No acute cardiopulmonary abnormality.,3593,no acute cardiopulmonary abnormality,310
+CXR3420_IM-1656-1001,CXR3420_IM-1656-2001,No acute cardiopulmonary findings.,876,no acute cardiopulmonary finding,118
+CXR3760_IM-1883-1001,CXR3760_IM-1883-2001,1. No acute intrathoracic abnormality.,3638,no acute intrathoracic abnormality,15
+CXR190_IM-0583-1001,CXR190_IM-0583-3001,No acute disease.,3923,no acute disease,112
+CXR3105_IM-1456-1001,CXR3105_IM-1456-1002,No acute abnormality.,2617,no acute abnormality,25
+CXR1266_IM-0179-1001,CXR1266_IM-0179-2001,No acute cardiopulmonary abnormality.,2326,no acute cardiopulmonary abnormality,310
+CXR3163_IM-1488-1001,CXR3163_IM-1488-2001,No acute disease.,3375,no acute disease,112
+CXR2858_IM-1265-3001,CXR2858_IM-1265-3001,No acute cardiopulmonary finding.,3952,no acute cardiopulmonary find,32
+CXR1671_IM-0442-1001,CXR1671_IM-0442-2001,No acute cardiopulmonary findings.,2893,no acute cardiopulmonary finding,118
+CXR3532_IM-1726-3001,CXR3532_IM-1726-3001,No active disease.,1222,no active disease,133
+CXR2855_IM-1263-1001,CXR2855_IM-1263-2001,No acute cardiopulmonary abnormality.,7,no acute cardiopulmonary abnormality,310
+CXR3325_IM-1591-1001,CXR3325_IM-1591-1002,No acute disease.,1855,no acute disease,112
+CXR1238_IM-0160-2002,CXR1238_IM-0160-2002,1. No evidence of active disease.,3330,no evidence active disease,44
+CXR2877_IM-1283-1001,CXR2877_IM-1283-2001,Negative for acute abnormality.,3207,negative acute abnormality,31
+CXR1717_IM-0473-1001,CXR1717_IM-0473-2001,No acute process.,2374,no acute process,28
+CXR1154_IM-0104-1001,CXR1154_IM-0104-2001,No acute pulmonary findings.,806,no acute pulmonary finding,7
+CXR762_IM-2310-1001,CXR762_IM-2310-2001,1. No evidence of active disease.,595,no evidence active disease,44
+CXR1376_IM-0242-1001,CXR1376_IM-0242-2001,Clear lungs.,3928,clear lung,21
+CXR3805_IM-1915-1001,CXR3805_IM-1915-1001,No acute cardiopulmonary abnormalities.,929,no acute cardiopulmonary abnormality,117
+CXR325_IM-1539-1001,CXR325_IM-1539-2001,Clear lungs.,2661,clear lung,21
+CXR3699_IM-1846-1001,CXR3699_IM-1846-1002,No acute cardiopulmonary abnormalities.,2384,no acute cardiopulmonary abnormality,117
+CXR1488_IM-0315-1001,CXR1488_IM-0315-3003,1. No evidence of active disease.,1980,no evidence active disease,44
+CXR553_IM-2155-2001,CXR553_IM-2155-4001,No acute cardiopulmonary process. .,3016,no acute cardiopulmonary process,14
+CXR1121_IM-0080-1001,CXR1121_IM-0080-2001,No acute pulmonary disease.,1673,no acute pulmonary disease,47
+CXR1447_IM-0289-1001,CXR1447_IM-0289-2001,No acute pulmonary disease.,1762,no acute pulmonary disease,47
+CXR2356_IM-0920-1001,CXR2356_IM-0920-2001,No radiographic evidence of acute cardiopulmonary disease.,2397,no radiographic evidence acute cardiopulmonary disease,9
+CXR926_IM-2425-1001,CXR926_IM-2425-2001,No acute cardiopulmonary disease.,1590,no acute cardiopulmonary disease,105
+CXR90_IM-2407-1001,CXR90_IM-2407-2001,No evidence of active disease.,3710,no evidence active disease,49
+CXR994_IM-2478-1001,CXR994_IM-2478-2001,Negative chest .,105,negative chest,11
+CXR2717_IM-1181-1001-0001,CXR2717_IM-1181-1001-0001,No acute process.,858,no acute process,28
+CXR176_IM-0496-1001,CXR176_IM-0496-2001,No acute findings.,12,no acute finding,29
+CXR2517_IM-1036-1001,CXR2517_IM-1036-2001,No acute cardiopulmonary abnormality.,662,no acute cardiopulmonary abnormality,310
+CXR2934_IM-1337-1001,CXR2934_IM-1337-1002,No acute disease.,152,no acute disease,112
+CXR3674_IM-1829-0001-0001,CXR3674_IM-1829-0001-0002,No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.,2860,no comparison chest x xxxx well expand clear lung mediastinal contour within normal limit no acute cardiopulmonary abnormality identify,16
+CXR2224_IM-0828-1001,CXR2224_IM-0828-2001,1. No acute cardiopulmonary abnormality.,2865,no acute cardiopulmonary abnormality,19
+CXR86_IM-2380-1001,CXR86_IM-2380-2001,No acute cardiopulmonary findings.,3700,no acute cardiopulmonary finding,118
+CXR1873_IM-0565-1001,CXR1873_IM-0565-2001,No acute cardiopulmonary findings. .,1041,no acute cardiopulmonary finding,35
+CXR751_IM-2305-3001,CXR751_IM-2305-3001,No acute cardiopulmonary findings,3049,no acute cardiopulmonary finding,21
+CXR2523_IM-1041-1001,CXR2523_IM-1041-2001,No acute cardiopulmonary findings,3536,no acute cardiopulmonary finding,21
+CXR620_IM-2202-1001,CXR620_IM-2202-2001,No acute cardiopulmonary abnormality. .,3712,no acute cardiopulmonary abnormality,52
+CXR2569_IM-1071-1001,CXR2569_IM-1071-2001,No acute cardiopulmonary abnormality.,2612,no acute cardiopulmonary abnormality,310
+CXR358_IM-1759-1001,CXR358_IM-1759-1002,No acute cardiopulmonary disease.,961,no acute cardiopulmonary disease,105
+CXR2329_IM-0898-2001,CXR2329_IM-0898-2001,No acute cardiopulmonary abnormality.,304,no acute cardiopulmonary abnormality,310
+CXR1947_IM-0616-1001,CXR1947_IM-0616-2001,No acute findings,3378,no acute finding,33
+CXR3784_IM-1898-1001,CXR3784_IM-1898-2001,No acute abnormality.,214,no acute abnormality,25
+CXR3628_IM-1796-1001,CXR3628_IM-1796-2001,No evidence of acute cardiopulmonary process.,3619,no evidence acute cardiopulmonary process,21
+CXR735_IM-2294-3001,CXR735_IM-2294-3001,No acute cardiopulmonary process.,2601,no acute cardiopulmonary process,70
+CXR3725_IM-1861-1001,CXR3725_IM-1861-2001,No acute cardiopulmonary abnormality.,1048,no acute cardiopulmonary abnormality,310
+CXR2662_IM-1143-2002,CXR2662_IM-1143-3003,No acute disease.,981,no acute disease,112
+CXR778_IM-2321-1001,CXR778_IM-2321-2001,No acute cardiopulmonary abnormalities.,3094,no acute cardiopulmonary abnormality,117
+CXR3796_IM-1909-1001,CXR3796_IM-1909-2001,1. No acute intrathoracic abnormality.,704,no acute intrathoracic abnormality,15
+CXR2638_IM-1123-1001,CXR2638_IM-1123-2001,1. No acute radiographic cardiopulmonary process.,1223,no acute radiographic cardiopulmonary process,71
+CXR1508_IM-0330-1001,CXR1508_IM-0330-2001,No active disease.,1371,no active disease,133
+CXR2364_IM-0927-1001,CXR2364_IM-0927-3001,No acute cardiopulmonary disease,1778,no acute cardiopulmonary disease,22
+CXR1138_IM-0094-1001,CXR1138_IM-0094-2001,No acute cardiopulmonary abnormality. .,2272,no acute cardiopulmonary abnormality,52
+CXR3962_IM-2027-1001,CXR3962_IM-2027-2001,Normal chest,298,normal chest,36
+CXR1442_IM-0286-1001,CXR1442_IM-0286-2001,No acute process.,1017,no acute process,28
+CXR305_IM-1420-2001,CXR305_IM-1420-2001,No acute cardiopulmonary disease.,1529,no acute cardiopulmonary disease,105
+CXR2116_IM-0745-1001,CXR2116_IM-0745-1002,No acute cardiopulmonary abnormality..,470,no acute cardiopulmonary abnormality,44
+CXR2845_IM-1254-1001,CXR2845_IM-1254-2001,No acute cardiopulmonary finding.,991,no acute cardiopulmonary find,32
+CXR3543_IM-1735-2001,CXR3543_IM-1735-3001,No acute cardiopulmonary abnormality.,718,no acute cardiopulmonary abnormality,310
+CXR3051_IM-1420-1001,CXR3051_IM-1420-2001,No acute cardiopulmonary process.,1543,no acute cardiopulmonary process,70
+CXR1028_IM-0022-1001,CXR1028_IM-0022-2001,No acute preoperative findings.,3870,no acute preoperative finding,13
+CXR1521_IM-0337-1001,CXR1521_IM-0337-2001,1. No acute radiographic cardiopulmonary process.,1353,no acute radiographic cardiopulmonary process,71
+CXR3275_IM-1556-1004003,CXR3275_IM-1556-1004003,1. No acute radiographic cardiopulmonary process.,2192,no acute radiographic cardiopulmonary process,71
+CXR414_IM-2057-1001,CXR414_IM-2057-2001,No acute process.,539,no acute process,28
+CXR3220_IM-1522-1001,CXR3220_IM-1522-2001,No acute cardiopulmonary process.,479,no acute cardiopulmonary process,70
+CXR1135_IM-0091-1001,CXR1135_IM-0091-2001,No radiographic evidence of acute cardiopulmonary disease,1669,no radiographic evidence acute cardiopulmonary disease,8
+CXR1136_IM-0092-1001,CXR1136_IM-0092-2001,No acute cardiopulmonary process.,1914,no acute cardiopulmonary process,70
+CXR1254_IM-0172-1001,CXR1254_IM-0172-2001,No acute cardiopulmonary findings. .,1851,no acute cardiopulmonary finding,35
+CXR225_IM-0844-1001,CXR225_IM-0844-2001,No acute cardiopulmonary abnormalities. .,3880,no acute cardiopulmonary abnormality,12
+CXR1545_IM-0355-2002,CXR1545_IM-0355-3003,No acute cardiopulmonary abnormality. .,881,no acute cardiopulmonary abnormality,52
+CXR1743_IM-0489-1001,CXR1743_IM-0489-4004,No acute findings,83,no acute finding,33
+CXR1118_IM-0079-1001,CXR1118_IM-0079-2001,1. No acute pulmonary abnormality.,1430,no acute pulmonary abnormality,29
+CXR2573_IM-1074-1001,CXR2573_IM-1074-1001,No acute cardiopulmonary abnormality.,1087,no acute cardiopulmonary abnormality,310
+CXR3719_IM-1857-1001,CXR3719_IM-1857-1002,No active disease.,1058,no active disease,133
+CXR3179_IM-1499-1001,CXR3179_IM-1499-2001,No acute cardiopulmonary findings.,835,no acute cardiopulmonary finding,118
+CXR555_IM-2156-1001,CXR555_IM-2156-1001,No acute cardiopulmonary findings.,3532,no acute cardiopulmonary finding,118
+CXR2061_IM-0698-1001,CXR2061_IM-0698-2001,1. No acute cardiopulmonary disease.,128,no acute cardiopulmonary disease,26
+CXR2680_IM-1154-3001,CXR2680_IM-1154-3001,No acute pulmonary disease.,3953,no acute pulmonary disease,47
+CXR3236_IM-1533-1001,CXR3236_IM-1533-2001,1. No acute pulmonary abnormality.,23,no acute pulmonary abnormality,29
+CXR1681_IM-0448-1001,CXR1681_IM-0448-1002,No active disease.,1452,no active disease,133
+CXR1409_IM-0260-1001,CXR1409_IM-0260-2001,1. No acute cardiopulmonary findings.,26,no acute cardiopulmonary finding,17
+CXR3317_IM-1587-1001,CXR3317_IM-1587-2001,No acute cardiopulmonary disease.,2324,no acute cardiopulmonary disease,105
+CXR1962_IM-0628-2002,CXR1962_IM-0628-3003,No acute cardiopulmonary abnormality. .,567,no acute cardiopulmonary abnormality,52
+CXR2078_IM-0710-1001,CXR2078_IM-0710-2001,1. No acute pulmonary abnormality.,3827,no acute pulmonary abnormality,29
+CXR3085_IM-1444-1001,CXR3085_IM-1444-2001,No acute cardiopulmonary abnormality.,1770,no acute cardiopulmonary abnormality,310
+CXR1092_IM-0063-1001,CXR1092_IM-0063-2001,No radiographic evidence of acute cardiopulmonary disease,1307,no radiographic evidence acute cardiopulmonary disease,8
+CXR683_IM-2254-1001,CXR683_IM-2254-1001,No acute cardiopulmonary abnormalities.,2486,no acute cardiopulmonary abnormality,117
+CXR3270_IM-1552-1001,CXR3270_IM-1552-1001,No acute cardiopulmonary abnormality. .,2921,no acute cardiopulmonary abnormality,52
+CXR2950_IM-1348-1001,CXR2950_IM-1348-2001,No acute disease.,1584,no acute disease,112
+CXR1768_IM-0502-3003,CXR1768_IM-0502-3003,No acute cardiopulmonary abnormality. .,342,no acute cardiopulmonary abnormality,52
+CXR2533_IM-1047-1001,CXR2533_IM-1047-2001,No acute cardiopulmonary abnormality.,3359,no acute cardiopulmonary abnormality,310
+CXR136_IM-0233-1001,CXR136_IM-0233-1002,Normal chest,2457,normal chest,36
+CXR3121_IM-1466-1001,CXR3121_IM-1466-1002,No acute cardiopulmonary abnormality.,1406,no acute cardiopulmonary abnormality,310
+CXR676_IM-2248-1001,CXR676_IM-2248-2001,Clear lungs. No acute cardiopulmonary abnormality. .,1738,clear lung no acute cardiopulmonary abnormality,14
+CXR2470_IM-1001-1001,CXR2470_IM-1001-2001,No acute abnormality.,63,no acute abnormality,25
+CXR2276_IM-0863-1001-0001,CXR2276_IM-0863-1001-0002,No acute cardiopulmonary abnormality.,91,no acute cardiopulmonary abnormality,310
+CXR1804_IM-0522-82050001,CXR1804_IM-0522-82050002,No acute cardiopulmonary abnormality.,46,no acute cardiopulmonary abnormality,310
+CXR1760_IM-0497-1001,CXR1760_IM-0497-1002,No active disease.,3367,no active disease,133
+CXR2711_IM-1178-0001-0001,CXR2711_IM-1178-0001-0002,No acute cardiopulmonary abnormalities. .,372,no acute cardiopulmonary abnormality,12
+CXR3146_IM-1479-1001,CXR3146_IM-1479-2001,No acute cardiopulmonary process.,585,no acute cardiopulmonary process,70
+CXR3993_IM-2044-1001,CXR3993_IM-2044-1002,Borderline cardiomegaly without acute disease.,3900,borderline cardiomegaly without acute disease,2
+CXR1624_IM-0406-1001,CXR1624_IM-0406-2001,"Mild cardiomegaly, no acute pulmonary findings",688,mild cardiomegaly no acute pulmonary finding,3
+CXR1733_IM-0483-0001-0001,CXR1733_IM-0483-0001-0002,"Pulmonary detail obscured secondary to body habitus and superimposed soft tissue. Again seen is a left basilar opacity compatible with some effusion and adjacent left basilar atelectasis. Overall, size of effusion appears slightly smaller. Right lung stable and grossly clear. No XXXX acute abnormalities since the previous chest radiograph.",1644,pulmonary detail obscure secondary body habitus superimpose soft tissue see left basilar opacity compatible effusion adjacent left basilar atelectasis overall size effusion appear slightly small right lung stable grossly clear no xxxx acute abnormality since previous chest radiograph,2
+CXR834_IM-2359-1001,CXR834_IM-2359-2001,No evidence of acute cardiopulmonary disease.,280,no evidence acute cardiopulmonary disease,3
+CXR2526_IM-1043-1001,CXR2526_IM-1043-2001,Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. Lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of active cardiopulmonary disease.,3296,normal heart size normal pulmonary vasculature normal mediastinal contour lung parenchyma clear no airspace disease no pulmonary edema no xxxx pleural effusion no xxxx active cardiopulmonary disease,2
+CXR2308_IM-0883-3001,CXR2308_IM-0883-3001,No comparisons. The heart size is normal and the lungs are clear.,3256,no comparison heart size normal lung clear,2
+CXR3509_IM-1711-0001-0003,CXR3509_IM-1711-0001-0003,1. Small right pleural effusion. Increased. 2. No pneumothorax is seen. 3. Scattered XXXX of right base atelectasis.,1505,small right pleural effusion increase no pneumothorax see scatter xxxx right base atelectasis,2
+CXR3509_IM-1711-0001-0001,CXR3509_IM-1711-0001-0002,1. Small right pleural effusion. Increased. 2. No pneumothorax is seen. 3. Scattered XXXX of right base atelectasis.,1505,small right pleural effusion increase no pneumothorax see scatter xxxx right base atelectasis,2
+CXR1000_IM-0003-3001,CXR1000_IM-0003-3001,1. Increased opacity in the right upper lobe with XXXX associated atelectasis may represent focal consolidation or mass lesion with atelectasis. Recommend chest CT for further evaluation. 2. XXXX opacity overlying the left 5th rib may represent focal airspace disease.,3867,increase opacity right upper lobe xxxx associate atelectasis may represent focal consolidation mass lesion atelectasis recommend chest ct evaluation xxxx opacity overlie left th rib may represent focal airspace disease,2
+CXR2398_IM-0947-4004,CXR2398_IM-0947-4004,Cardiomegaly with elevated right hemidiaphragms and no acute findings.,1526,cardiomegaly elevate right hemidiaphragms no acute finding,2
+CXR3602_IM-1778-1001,CXR3602_IM-1778-2001,Chest radiograph. 1. No acute radiographic cardiopulmonary process.,3799,chest radiograph no acute radiographic cardiopulmonary process,5
+CXR1220_IM-0148-3001,CXR1220_IM-0148-3001,Changes of chronic emphysematous lung disease without acute cardiopulmonary abnormality identified.,624,change chronic emphysematous lung disease without acute cardiopulmonary abnormality identify,2
+CXR1724_IM-0478-1001,CXR1724_IM-0478-1001,Emphysema.,1888,emphysema,2
+CXR1603_IM-0391-1001,CXR1603_IM-0391-1002,Normal chest No evidence of tuberculosis,3145,normal chest no evidence tuberculosis,5
+CXR1230_IM-0154-2001,CXR1230_IM-0154-2001,Left lung clear. Slight cardiomegaly. Right effusion. Right lower lobe infiltrate. Two air-fluid levels in the right hemithorax most XXXX representing hydropneumothorax. This radiographic finding could also represent empyema with a bronchopleural fistula. CT scan with IV contrast may be helpful.,358,left lung clear slight cardiomegaly right effusion right low lobe infiltrate two air fluid level right hemithorax xxxx represent hydropneumothorax radiographic find could also represent empyema bronchopleural fistula ct scan iv contrast may helpful,2
+CXR1285_IM-0188-0001,CXR1285_IM-0188-1001,1. Low lung volumes with mild crowding.,1387,low lung volume mild crowd,2
+CXR3662_IM-1821-1001,CXR3662_IM-1821-2001,Chest radiograph. 1. No acute radiographic cardiopulmonary process.,2546,chest radiograph no acute radiographic cardiopulmonary process,5
+CXR993_IM-2478-1001,CXR993_IM-2478-1002,Normal chest No evidence of tuberculosis,650,normal chest no evidence tuberculosis,5
+CXR3419_IM-1654-4004,CXR3419_IM-1654-4004,"Chest: Three total images. The heart size is within normal limits. Mildly tortuous thoracic aorta. No abnormal mediastinal widening is appreciated. Normal pulmonary vascularity. No pleural effusion or pneumothorax. There is an S-shaped curvature of the thoracolumbar spine and a mild kyphosis at the thoraco lumbar junction without clear XXXX deformity identified. Left shoulder: There is a mildly comminuted fracture at the junction of the middle and lateral thirds of the left clavicle, the distal most fragment is displaced superiorly approximately 25% bone width. Glenohumeral alignment appears preserved without dislocation and no additional acute fractures are seen. There is mild superior subluxation of the humerus on the glenoid which suggests reflect chronic rotator XXXX pathology; dysmorphic ossification superolateral to the humeral head XXXX reflecting calcific tendinitis.",126,chest three total image heart size within normal limit mildly tortuous thoracic aorta no abnormal mediastinal widen appreciate normal pulmonary vascularity no pleural effusion pneumothorax shape curvature thoracolumbar spine mild kyphosis thoraco lumbar junction without clear xxxx deformity identify left shoulder mildly comminute fracture junction middle lateral third left clavicle distal fragment displace superiorly approximately bone width glenohumeral alignment appear preserve without dislocation no additional acute fracture see mild superior subluxation humerus glenoid suggests reflect chronic rotator xxxx pathology dysmorphic ossification superolateral humeral head xxxx reflect calcific tendinitis,2
+CXR1074_IM-0054-1001,CXR1074_IM-0054-2001,Low lung volumes. No acute cardiopulmonary findings.,2615,low lung volume no acute cardiopulmonary finding,2
+CXR2145_IM-0766-3001,CXR2145_IM-0766-3001,Normal chest x-XXXX.,2689,normal chest x xxxx,4
+CXR1677_IM-0446-3001,CXR1677_IM-0446-3001,No evidence of acute cardiopulmonary process. Unremarkable examination of the chest.,2405,no evidence acute cardiopulmonary process unremarkable examination chest,2
+CXR1453_IM-0292-1001,CXR1453_IM-0292-12012,Low lung volumes. No acute cardiopulmonary abnormalities.,1754,low lung volume no acute cardiopulmonary abnormality,2
+CXR2884_IM-1286-1001,CXR2884_IM-1286-2001,No acute findings. .,528,no acute finding,4
+CXR739_IM-2296-1001,CXR739_IM-2296-2001,No acute cardiopulmonary abnormalities are seen. END OF REPORT.,1385,no acute cardiopulmonary abnormality see end report,3
+CXR1056_IM-0040-1003,CXR1056_IM-0040-1003,Stable emphysematous lung changes. No acute abnormality seen.,1884,stable emphysematous lung change no acute abnormality see,2
+CXR1087_IM-0060-1002001,CXR1087_IM-0060-1004003,Old granulomatous disease. No acute pulmonary disease.,1417,old granulomatous disease no acute pulmonary disease,2
+CXR2326_IM-0897-1001,CXR2326_IM-0897-2001,"Cardiomegaly, no acute pulmonary findings",3753,cardiomegaly no acute pulmonary finding,4
+CXR1564_IM-0368-1001,CXR1564_IM-0368-2001,"Chronic changes as described, no acute findings",3840,chronic change described no acute finding,2
+CXR1303_IM-0199-2001-0001,CXR1303_IM-0199-2001-0002,"XXXX right upper lobe mass, suspicious for neoplasm. CT of chest abdomen and head would be helpful for further evaluation.",2482,xxxx right upper lobe mass suspicious neoplasm ct chest abdomen head would helpful evaluation,3
+CXR3518_IM-1717-1001,CXR3518_IM-1717-2001,No acute visualized cardiopulmonary abnormality.,1270,no acute visualize cardiopulmonary abnormality,2
+CXR2747_IM-1198-1001,CXR2747_IM-1198-2001,Small bilateral pleural effusions.,2327,small bilateral pleural effusion,2
+CXR2543_IM-1054-3001,CXR2543_IM-1054-3001,Cardiomegaly with midlung and lower lobe edema. Shunt catheter overlies the right anterior chest.,2791,cardiomegaly midlung low lobe edema shunt catheter overlies right anterior chest,2
+CXR1020_IM-0017-1001,CXR1020_IM-0017-2001,Hypoinflation with no visible active cardiopulmonary disease.,838,hypoinflation no visible active cardiopulmonary disease,5
+CXR1835_IM-0539-1001,CXR1835_IM-0539-2001,Low lung volumes. No acute cardiopulmonary abnormalities.,3919,low lung volume no acute cardiopulmonary abnormality,2
+CXR398_IM-2039-1001,CXR398_IM-2039-2001,No acute findings. Please note that fractures may not be demonstrated and consider additional imaging as clinically warranted.,693,no acute finding please note fracture may not demonstrate consider additional image clinically warrant,2
+CXR3566_IM-1751-2001,CXR3566_IM-1751-4004,1. No acute cardiopulmonary abnormality. 2. Technically limited exam. 3. Incidental note XXXX of large cervical spine osteophytes. .,3224,no acute cardiopulmonary abnormality technically limited exam incidental note xxxx large cervical spine osteophyte,2
+CXR2280_IM-0867-1001-0001,CXR2280_IM-0867-1001-0002,Heart size is normal. Multiple scattered small 4 mm nodules throughout the chest. These most XXXX represent calcified small granulomas. A low KV film XXXX demonstrate these are probably calcified.,3026,heart size normal multiple scatter small mm nodule throughout chest xxxx represent calcify small granuloma low kv film xxxx demonstrate probably calcify,2
+CXR2727_IM-1187-1001,CXR2727_IM-1187-1002,Negative for acute cardiopulmonary disease. No pulmonary nodules identified.,3072,negative acute cardiopulmonary disease no pulmonary nodule identify,2
+CXR1438_IM-0282-1002,CXR1438_IM-0282-1003,"No acute cardiopulmonary abnormality.. Specifically, no evidence of active tuberculous process.",3933,no acute cardiopulmonary abnormality specifically no evidence active tuberculous process,2
+CXR2235_IM-0833-1001,CXR2235_IM-0833-2001,Low lung volumes without acute cardiopulmonary disease.,2125,low lung volume without acute cardiopulmonary disease,4
+CXR3727_IM-1863-1001,CXR3727_IM-1863-2001,Hypoinflation with no visible active cardiopulmonary disease.,1433,hypoinflation no visible active cardiopulmonary disease,5
+CXR1803_IM-0521-1001,CXR1803_IM-0521-1002,Heart size is normal. Lungs are clear. No evidence of tuberculosis. Mildly prominent ascending aorta with calcification of aortic XXXX question hypertension.,709,heart size normal lung clear no evidence tuberculosis mildly prominent ascend aorta calcification aortic xxxx question hypertension,2
+CXR1793_IM-0515-2001,CXR1793_IM-0515-2001,1. Negative for acute cardiopulmonary findings.,673,negative acute cardiopulmonary finding,5
+CXR571_IM-2170-1001,CXR571_IM-2170-2001,Clear lungs with no suspicious pulmonary nodules or masses.,323,clear lung no suspicious pulmonary nodule mass,2
+CXR2980_IM-1370-1002001,CXR2980_IM-1370-1003002,No acute cardiothoracic abnormality.,1130,no acute cardiothoracic abnormality,3
+CXR1923_IM-0598-1001,CXR1923_IM-0598-2001,Cardiomegaly without acute cardiopulmonary abnormality.,2775,cardiomegaly without acute cardiopulmonary abnormality,2
+CXR3755_IM-1879-1001,CXR3755_IM-1879-3001,No acute changes from prior imaging.,690,no acute change prior image,2
+CXR1879_IM-0569-1001,CXR1879_IM-0569-1002,"No acute cardiopulmonary findings. Specifically, no radiographic evidence of tuberculosis.",2245,no acute cardiopulmonary finding specifically no radiographic evidence tuberculosis,2
+CXR78_IM-2322-3001,CXR78_IM-2322-3001,Heart size normal. Right lung clear. Minimal basilar atelectasis on the left,3488,heart size normal right lung clear minimal basilar atelectasis left,2
+CXR1742_IM-0489-1001,CXR1742_IM-0489-2001,"Cardiomegaly, no acute pulmonary findings",168,cardiomegaly no acute pulmonary finding,4
+CXR2194_IM-0804-9001,CXR2194_IM-0804-9001,Stable enlarged cardiomediastinal silhouette. Tortuous aorta. Low lung volumes and left basilar bandlike opacities suggestive of scarring or atelectasis. No overt edema. Question small right pleural effusion versus pleural thickening. No visible pneumothorax.,2203,stable enlarge cardiomediastinal silhouette tortuous aorta low lung volume left basilar bandlike opacity suggestive scar atelectasis no overt edema question small right pleural effusion versus pleural thicken no visible pneumothorax,2
+CXR550_IM-2154-1001,CXR550_IM-2154-2001,Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. Lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of active cardiopulmonary disease. Unchanged.,3275,normal heart size normal pulmonary vasculature normal mediastinal contour lung parenchyma clear no airspace disease no pulmonary edema no xxxx pleural effusion no xxxx active cardiopulmonary disease unchanged,3
+CXR1384_IM-0246-1001,CXR1384_IM-0246-2001,No Acute cardiopulmonary disease.,11,no acute cardiopulmonary disease,3
+CXR2288_IM-0872-1001,CXR2288_IM-0872-1002,1. Clear lungs. No radiographic evidence of active TB.,181,clear lung no radiographic evidence active tb,2
+CXR906_IM-2411-1001,CXR906_IM-2411-2001,"Mild cardiomegaly, no acute pulmonary findings",2598,mild cardiomegaly no acute pulmonary finding,3
+CXR2145_IM-0766-1001,CXR2145_IM-0766-2001,Normal chest x-XXXX.,2689,normal chest x xxxx,4
+CXR819_IM-2349-1001,CXR819_IM-2349-2001,No active cardiopulmonary disease.,531,no active cardiopulmonary disease,2
+CXR3570_IM-1754-3001,CXR3570_IM-1754-3001,"1. Low lung volumes with patchy bilateral scarring versus atelectasis. 2. Otherwise, no acute or XXXX pulmonary abnormality.",3182,low lung volume patchy bilateral scar versus atelectasis otherwise no acute xxxx pulmonary abnormality,2
+CXR629_IM-2209-1001,CXR629_IM-2209-2001,No evidence of acute cardiopulmonary process. Stable appearance of the chest.,747,no evidence acute cardiopulmonary process stable appearance chest,5
+CXR335_IM-1606-3001,CXR335_IM-1606-3001,Stable position of the left-sided hemodialysis catheter otherwise no acute cardiopulmonary disease.,2246,stable position left side hemodialysis catheter otherwise no acute cardiopulmonary disease,2
+CXR3201_IM-1513-1001,CXR3201_IM-1513-2001,Hypoinflation with no visible active cardiopulmonary disease.,3436,hypoinflation no visible active cardiopulmonary disease,5
+CXR1803_IM-0521-1003,CXR1803_IM-0521-1003,Heart size is normal. Lungs are clear. No evidence of tuberculosis. Mildly prominent ascending aorta with calcification of aortic XXXX question hypertension.,709,heart size normal lung clear no evidence tuberculosis mildly prominent ascend aorta calcification aortic xxxx question hypertension,2
+CXR3031_IM-1406-1001,CXR3031_IM-1406-2001,Negative chest.,812,negative chest,5
+CXR974_IM-2463-3001,CXR974_IM-2463-3001,1. Stable chest with no acute cardiopulmonary abnormality.,3331,stable chest no acute cardiopulmonary abnormality,2
+CXR163_IM-0410-12012,CXR163_IM-0410-2002,Nodular density noted on recent PA chest radiograph XXXX represents an artifact. No nodules noted within the lungs on a recent outside XXXX from XXXX.,245,nodular density note recent pa chest radiograph xxxx represent artifact no nodule note within lung recent outside xxxx xxxx,2
+CXR2762_IM-1208-1001,CXR2762_IM-1208-2001,1. Clear lungs.,1624,clear lung,5
+CXR304_IM-1413-4004,CXR304_IM-1413-4004,Lung lines without evidence of acute cardiopulmonary process.,1684,lung line without evidence acute cardiopulmonary process,2
+CXR714_IM-2276-1001,CXR714_IM-2276-2001,Stable appearance of the chest without acute abnormality noted.,1626,stable appearance chest without acute abnormality note,2
+CXR3142_IM-1477-1001,CXR3142_IM-1477-2001,No acute process. Stable cardiomegaly.,419,no acute process stable cardiomegaly,2
+CXR1098_IM-0067-1001,CXR1098_IM-0067-1001,Emphysema.,2042,emphysema,2
+CXR1000_IM-0003-1001,CXR1000_IM-0003-2001,1. Increased opacity in the right upper lobe with XXXX associated atelectasis may represent focal consolidation or mass lesion with atelectasis. Recommend chest CT for further evaluation. 2. XXXX opacity overlying the left 5th rib may represent focal airspace disease.,3867,increase opacity right upper lobe xxxx associate atelectasis may represent focal consolidation mass lesion atelectasis recommend chest ct evaluation xxxx opacity overlie left th rib may represent focal airspace disease,2
+CXR3795_IM-1909-1001,CXR3795_IM-1909-2001,No acute changes from prior imaging.,949,no acute change prior image,2
+CXR932_IM-2430-4004,CXR932_IM-2430-4004,1. Negative for acute cardiopulmonary findings.,1594,negative acute cardiopulmonary finding,5
+CXR543_IM-2148-1001,CXR543_IM-2148-2001,Normal chest film.,3877,normal chest film,5
+CXR1706_IM-0466-1001,CXR1706_IM-0466-1002,Low lung volumes without acute cardiopulmonary disease.,2610,low lung volume without acute cardiopulmonary disease,4
+CXR1346_IM-0224-8001,CXR1346_IM-0224-8001,1. Right chest XXXX catheter tip at cavoatrial junction. 2. Grossly clear lungs.,228,right chest xxxx catheter tip cavoatrial junction grossly clear lung,2
+CXR821_IM-2351-1001,CXR821_IM-2351-1001,"Low lung volumes, otherwise no acute cardiopulmonary abnormality.",466,low lung volume otherwise no acute cardiopulmonary abnormality,2
+CXR1638_IM-0417-1003,CXR1638_IM-0417-1003,"Cardiomegaly with central pulmonary vascular prominence and coarsened interstitial markings, concerning for interstitial pulmonary edema.",3503,cardiomegaly central pulmonary vascular prominence coarsen interstitial marking concern interstitial pulmonary edema,2
+CXR1720_IM-0475-0001-0001,CXR1720_IM-0475-0001-0002,1. Very low lung volumes without definite acute cardiopulmonary finding. .,1075,low lung volume without definite acute cardiopulmonary find,2
+CXR3145_IM-1479-1001,CXR3145_IM-1479-2001,Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. Lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of active cardiopulmonary disease. Unchanged.,844,normal heart size normal pulmonary vasculature normal mediastinal contour lung parenchyma clear no airspace disease no pulmonary edema no xxxx pleural effusion no xxxx active cardiopulmonary disease unchanged,3
+CXR1638_IM-0417-1001,CXR1638_IM-0417-1002,"Cardiomegaly with central pulmonary vascular prominence and coarsened interstitial markings, concerning for interstitial pulmonary edema.",3503,cardiomegaly central pulmonary vascular prominence coarsen interstitial marking concern interstitial pulmonary edema,2
+CXR372_IM-1858-0001-0001,CXR372_IM-1858-0001-0002,Left retrocardiac airspace disease could reflect atelectasis and possible scarring. Small left pleural effusion.,537,left retrocardiac airspace disease could reflect atelectasis possible scar small left pleural effusion,2
+CXR3281_IM-1562-3001,CXR3281_IM-1562-3001,"1. Right upper lobe pulmonary nodule, XXXX granuloma.",1248,right upper lobe pulmonary nodule xxxx granuloma,2
+CXR1420_IM-0268-3001,CXR1420_IM-0268-3001,"No focal alveolar consolidation, no definite pleural effusion seen, left hilar calcifications and dense nodule in the left lung suggest a previous granulomatous process. Considering differences in technical factors XXXX stable cardiomediastinal silhouette with normal heart size, bronchovascular crowding without typical findings of pulmonary edema.",229,no focal alveolar consolidation no definite pleural effusion see left hilar calcification dense nodule left lung suggest previous granulomatous process consider difference technical factor xxxx stable cardiomediastinal silhouette normal heart size bronchovascular crowd without typical finding pulmonary edema,2
+CXR2355_IM-0919-1001,CXR2355_IM-0919-2001,Low lung volumes with crowding. Mild left base atelectasis.,2153,low lung volume crowd mild left base atelectasis,1
+CXR3245_IM-1537-1001,CXR3245_IM-1537-4001,Moderate congestive cardiac failure.,1945,moderate congestive cardiac failure,1
+CXR2296_IM-0876-1001,CXR2296_IM-0876-2001,1. No acute cardiopulmonary finding. 2. Hiatal hernia.,3376,no acute cardiopulmonary find hiatal hernia,1
+CXR2167_IM-0783-1001,CXR2167_IM-0783-2001,1. No acute cardiopulmonary disease. 2. Emphysematous changes 3. Retained contrast within the renal collecting XXXX.,1956,no acute cardiopulmonary disease emphysematous change retain contrast within renal collect xxxx,1
+CXR353_IM-1726-1001,CXR353_IM-1726-2001,1. Improving bilateral interstitial edema pattern. 2. Small right-sided pleural effusion.,3499,improve bilateral interstitial edema pattern small right side pleural effusion,1
+CXR1728_IM-0479-1001,CXR1728_IM-0479-2001,After further review with staff radiologist there is a right upper lobe focal opacity XXXX reflecting pneumonia.,2123,review staff radiologist right upper lobe focal opacity xxxx reflect pneumonia,1
+CXR1754_IM-0494-1001,CXR1754_IM-0494-2001,1. XXXX interstitial airspace opacities in the lower lobes most consistent with atypical infectious process in the setting of XXXX. 2. No pleural effusion or visible pneumothorax.,331,xxxx interstitial airspace opacity low lobe consistent atypical infectious process set xxxx no pleural effusion visible pneumothorax,1
+CXR3911_IM-1987-1001,CXR3911_IM-1987-2001,Heart size is normal and lungs are clear. No pneumonia or effusion. No nodules or masses.,1697,heart size normal lung clear no pneumonia effusion no nodule mass,1
+CXR1695_IM-0456-1002001,CXR1695_IM-0456-1003002,SOFT TISSUE NECK. Small 3 x 1 mm density possibly in a piriform sinus only seen on the lateral exam. CHEST. No acute cardiopulmonary disease.,1446,soft tissue neck small x mm density possibly piriform sinus see lateral exam chest no acute cardiopulmonary disease,1
+CXR3255_IM-1543-2001,CXR3255_IM-1543-2001,1. Stable appearance of the left-sided XXXX without acute complicating features.,1018,stable appearance left side xxxx without acute complicate feature,1
+CXR60_IM-2192-1001,CXR60_IM-2192-1001,"1. Round area of density measuring 1.9 x 1.8 cm in left superior lower lobe with interval increased size compared to prior imaging. Recommend XXXX chest, abdomen and pelvis with contrast for further evaluation. Dr. XXXX XXXX notified by the Veriphy critical result notification XXXX of the left pulmonary mass and recommended followup XXXX chest, abdomen and pelvis with contrast at XXXX XXXX/XXXX.",281,round area density measure x cm left superior low lobe interval increase size compare prior image recommend xxxx chest abdomen pelvis contrast evaluation dr xxxx xxxx notify veriphy critical result notification xxxx left pulmonary mass recommend followup xxxx chest abdomen pelvis contrast xxxx xxxx xxxx,1
+CXR703_IM-2267-1001,CXR703_IM-2267-3001,"Heart size normal. Mediastinal silhouette and vascularity are within normal limits. Lungs are clear, hyperinflated. There is no pleural effusion or pneumothorax.",1874,heart size normal mediastinal silhouette vascularity within normal limit lung clear hyperinflated no pleural effusion pneumothorax,1
+CXR3261_IM-1547-1001,CXR3261_IM-1547-2001,Normal chest No evidence of sarcoidosis.,2201,normal chest no evidence sarcoidosis,1
+CXR1906_IM-0588-2001,CXR1906_IM-0588-4004,"Streaky bibasilar opacities most suggestive of atelectasis with hypoventilation. Heart size mildly enlarged for technique, stable mediastinal contours. No definite pleural effusion seen, no typical findings of pulmonary edema.",1167,streaky bibasilar opacity suggestive atelectasis hypoventilation heart size mildly enlarge technique stable mediastinal contour no definite pleural effusion see no typical finding pulmonary edema,1
+CXR3565_IM-1750-1001,CXR3565_IM-1750-2001,"1. Stable right middle lobe consolidation, most consistent with pneumonia.",2965,stable right middle lobe consolidation consistent pneumonia,1
+CXR760_IM-2310-1001,CXR760_IM-2310-1002,Changes of chronic lung disease without acute cardiopulmonary abnormality.,892,change chronic lung disease without acute cardiopulmonary abnormality,1
+CXR3923_IM-1997-2002,CXR3923_IM-1997-3003,"Comparison XXXX, XXXX Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.",2013,comparison xxxx xxxx well expand clear lung mediastinal contour within normal limit no acute cardiopulmonary abnormality identify,1
+CXR1342_IM-0221-1001,CXR1342_IM-0221-2001,"Mildly hyperinflated lungs, air trapping versus inspiratory XXXX.",780,mildly hyperinflated lung air trap versus inspiratory xxxx,1
+CXR2014_IM-0664-1001,CXR2014_IM-0664-2001,"1. No acute or active cardiac, pulmonary or pleural disease. 2. Pneumoperitoneum, attributed to the patient's recent abdominal surgery.",1362,no acute active cardiac pulmonary pleural disease pneumoperitoneum attribute patient recent abdominal surgery,1
+CXR2126_IM-0750-12012,CXR2126_IM-0750-3003,Interval improvement/resolution right patchy lateral base opacity. There is continued XXXX density in the right lateral and left base of the chest with minimal tenting of the lateral right hemidiaphragm . Costophrenic XXXX blunting may persist but the left costophrenic XXXX is clipped from view. There is a right middle base calcific nodular density XXXX from old granulomatous disease. Mild left apical pleural thickening. XXXX XXXX and valve XXXX. Probable prominent epicardial fat pads on either side. Thoracic spine DISH.,3681,interval improvement resolution right patchy lateral base opacity continued xxxx density right lateral left base chest minimal tent lateral right hemidiaphragm costophrenic xxxx blunting may persist left costophrenic xxxx clipped view right middle base calcific nodular density xxxx old granulomatous disease mild left apical pleural thicken xxxx xxxx valve xxxx probable prominent epicardial fat pad either side thoracic spine dish,1
+CXR1501_IM-0327-1001,CXR1501_IM-0327-2001,1. Chest. Continued right hemidiaphragm elevation with right lower lobe airspace disease. 2. Right shoulder. Scapular fracture. 3. Clavicle. Acromioclavicular separation.,2345,chest continued right hemidiaphragm elevation right low lobe airspace disease right shoulder scapular fracture clavicle acromioclavicular separation,1
+CXR2050_IM-0690-1001,CXR2050_IM-0690-2001,"1. Stable appearance of XXXX scarring in the right upper lung associated with numerous XXXX XXXX granulomas. There are calcified right hilar lymph XXXX as XXXX. 2. XXXX opacities in the left lung base, XXXX atelectasis or scarring 3. Low lung volumes 4. No focal air space opacities to suggest pneumonia.",3816,stable appearance xxxx scar right upper lung associate numerous xxxx xxxx granuloma calcify right hilar lymph xxxx xxxx xxxx opacity left lung base xxxx atelectasis scar low lung volume no focal air space opacity suggest pneumonia,1
+CXR2578_IM-1078-1001,CXR2578_IM-1078-2001,"1. Clear lungs. 2. Several bilateral healing rib fractures, XXXX pathologic fracture.",2377,clear lung several bilateral heal rib fracture xxxx pathologic fracture,1
+CXR591_IM-2186-1001,CXR591_IM-2186-2001,1. No acute cardiopulmonary process. 2. Age-indeterminate wedging of several midthoracic vertebral bodies.,3118,no acute cardiopulmonary process age indeterminate wedge several midthoracic vertebral body,1
+CXR3036_IM-1409-1001,CXR3036_IM-1409-2001,1. Technically limited exam. 2. Low lung volumes with XXXX bilateral pleural effusions. .,449,technically limited exam low lung volume xxxx bilateral pleural effusion,1
+CXR1401_IM-0256-1001,CXR1401_IM-0256-1002,"Heart size is normal. Bilateral upper lobe XXXX, fibronodular infiltrates which have been there on prior exams.",3186,heart size normal bilateral upper lobe xxxx fibronodular infiltrates prior exam,1
+CXR773_IM-2318-1001,CXR773_IM-2318-2001,Prior granulomatous disease. Negative for acute abnormality.,349,prior granulomatous disease negative acute abnormality,1
+CXR1618_IM-0399-1001,CXR1618_IM-0399-1002,Heart size is normal and lungs are clear. No pneumonia.,694,heart size normal lung clear no pneumonia,1
+CXR2236_IM-0833-1001,CXR2236_IM-0833-2002,Unremarkable chest x-XXXX. .,2364,unremarkable chest x xxxx,1
+CXR540_IM-2146-2001,CXR540_IM-2146-4004,"Mild streaky left basilar airspace disease, XXXX atelectasis. .",3628,mild streaky left basilar airspace disease xxxx atelectasis,1
+CXR3733_IM-1866-1001,CXR3733_IM-1866-2001,1. Cardiomegaly without failure 2. Ectatic aorta,1438,cardiomegaly without failure ectatic aorta,1
+CXR2408_IM-0955-2001,CXR2408_IM-0955-4004,"1. No acute cardiopulmonary finding. 2. Mild to moderate T10 vertebral body anterior XXXX deformity, XXXX from XXXX. Slight interval increase in XXXX loss of T11. Unchanged severe L1 XXXX deformity. If further imaging characterization is needed, recommend MRI. Findings will be conveyed to the ordering physician XXXX the Primordial communication XXXX.",2513,no acute cardiopulmonary find mild moderate vertebral body anterior xxxx deformity xxxx xxxx slight interval increase xxxx loss unchanged severe l xxxx deformity image characterization need recommend mri finding conveyed order physician xxxx primordial communication xxxx,1
+CXR1959_IM-0625-1001,CXR1959_IM-0625-2001,Stable exam without acute abnormality.,183,stable exam without acute abnormality,1
+CXR687_IM-2255-1001,CXR687_IM-2255-2001,"1. Pulmonary hypoinflation. Otherwise, no acute cardiopulmonary process.",2439,pulmonary hypoinflation otherwise no acute cardiopulmonary process,1
+CXR3546_IM-1738-2001,CXR3546_IM-1738-4004,"Unchanged appearance of the chest with interstitial prominence the differential of which is XXXX but could include interstitial edema, infectious process or interstitial disease.",477,unchanged appearance chest interstitial prominence differential xxxx could include interstitial edema infectious process interstitial disease,1
+CXR972_IM-2461-1001-0001,CXR972_IM-2461-1001-0002,Anticipated senescent changes with grossly clear lungs. No effusions or CHF identified. A few scant reticular opacities in right lung base XXXX hypoventilation and foci of subsegmental atelectasis. No XXXX acute abnormalities since the previous chest radiograph.,3845,anticipate senescent change grossly clear lung no effusion chf identify scant reticular opacity right lung base xxxx hypoventilation focus subsegmental atelectasis no xxxx acute abnormality since previous chest radiograph,1
+CXR1383_IM-0245-1001,CXR1383_IM-0245-1002,1. Improved right mid lung and right basilar consolidation. 2. Decreasing right pleural effusion.,740,improve right mid lung right basilar consolidation decrease right pleural effusion,1
+CXR177_IM-0503-1001,CXR177_IM-0503-2001,"1. Cardiomegaly with bilateral interstitial opacities. 2. Bilateral effusions and/or atelectasis, right worse than left.",244,cardiomegaly bilateral interstitial opacity bilateral effusion atelectasis right bad left,1
+CXR651_IM-2229-1001,CXR651_IM-2229-2001,1. Small left pleural effusion. 2. Mediastinal adenopathy noted but better evaluated on the XXXX XXXX CT.,2214,small left pleural effusion mediastinal adenopathy note well evaluate xxxx xxxx ct,1
+CXR3123_IM-1468-1001,CXR3123_IM-1468-2001,Mild stable cardiomegaly without acute disease. Possible XXXX right pleural effusion.,1083,mild stable cardiomegaly without acute disease possible xxxx right pleural effusion,1
+CXR784_IM-2325-1001-0001,CXR784_IM-2325-1001-0002,Probable XXXX posterior recess effusions with mild basilar atelectasis. No lobar pneumonia.,3346,probable xxxx posterior recess effusion mild basilar atelectasis no lobar pneumonia,1
+CXR3750_IM-1874-1001,CXR3750_IM-1874-1001,Stable cardiomegaly and XXXX of interstitial edema with small but increasing right pleural effusion.,446,stable cardiomegaly xxxx interstitial edema small increase right pleural effusion,1
+CXR1814_IM-0527-1001,CXR1814_IM-0527-2001,Heart size normal and lungs clear.,962,heart size normal lung clear,1
+CXR3934_IM-2005-0001,CXR3934_IM-2005-2001,Normal heart size. No XXXX of pleural effusions. There appears to be generalized mild interstitial changes in both lungs. Similar changes appear to have been present XXXX scan focused on the abdomen XXXX. For more detailed evaluation of the lung parenchyma consider XXXX with high resolution technique. There are no XXXX of acute airspace disease. No lung masses visualized. Visualized bony structures have normal appearance.,2253,normal heart size no xxxx pleural effusion appear generalize mild interstitial change lung similar change appear present xxxx scan focus abdomen xxxx detailed evaluation lung parenchyma consider xxxx high resolution technique no xxxx acute airspace disease no lung mass visualize visualize bony structure normal appearance,1
+CXR517_IM-2130-2002,CXR517_IM-2130-3003,Calcified right basilar nodule compatible with granuloma / histoplasmoma. A few calcified right hilar lymph XXXX. Lungs overall well expanded and clear. Unremarkable mediastinal contour. No acute cardiopulmonary abnormality identified.,1560,calcify right basilar nodule compatible granuloma histoplasmoma calcify right hilar lymph xxxx lung overall well expand clear unremarkable mediastinal contour no acute cardiopulmonary abnormality identify,1
+CXR636_IM-2215-1001,CXR636_IM-2215-2001,Subsegmental atelectasis in the left lower lobe.,3696,subsegmental atelectasis left low lobe,1
+CXR872_IM-2391-1001,CXR872_IM-2391-2001,No acute findings. No evidence of pneumonia.,2692,no acute finding no evidence pneumonia,1
+CXR3512_IM-1714-1001,CXR3512_IM-1714-2001,Negative chest x-XXXX. No evidence of pneumonia.,1995,negative chest x xxxx no evidence pneumonia,1
+CXR635_IM-2215-1001,CXR635_IM-2215-1002,Heart size normal. Right lung clear. Persistent but decreased left lower lobe atelectasis infiltrate and effusion.,3945,heart size normal right lung clear persistent decrease left low lobe atelectasis infiltrate effusion,1
+CXR2216_IM-0821-85075001,CXR2216_IM-0821-85075002,1. Mildly elevated right hemidiaphragm. Otherwise no acute cardiopulmonary abnormality seen.,1333,mildly elevate right hemidiaphragm otherwise no acute cardiopulmonary abnormality see,1
+CXR2118_IM-0745-2001,CXR2118_IM-0745-3001,1. Stable AICD with intact XXXX replacement. 2. No acute radiographic cardiopulmonary process. .,3729,stable aicd intact xxxx replacement no acute radiographic cardiopulmonary process,1
+CXR3251_IM-1541-1001,CXR3251_IM-1541-2001,Stable radiographic view of chest.,1942,stable radiographic view chest,1
+CXR1430_IM-0277-2001,CXR1430_IM-0277-2001,"1. Minimal patchy bibasilar opacities, XXXX evolving pneumonia or atelectasis 2. XXXX bilateral pleural effusions",774,minimal patchy bibasilar opacity xxxx evolve pneumonia atelectasis xxxx bilateral pleural effusion,1
+CXR3811_IM-1921-1001,CXR3811_IM-1921-2001,Mild cardiomegaly. There are a few thin peripheral reticular opacities in the bases compatible with mild edema given mild central venous congestion. There is no pleural effusion or pneumothorax.,933,mild cardiomegaly thin peripheral reticular opacity base compatible mild edema give mild central venous congestion no pleural effusion pneumothorax,1
+CXR500_IM-2119-2001,CXR500_IM-2119-2001,Cardiomegaly. No acute findings.,1806,cardiomegaly no acute finding,1
+CXR3159_IM-1487-1001-0001,CXR3159_IM-1487-1001-0002,"No acute findings, see above.",3872,no acute finding see above,1
+CXR3581_IM-1761-1001,CXR3581_IM-1761-3001,1. No evidence of active disease. 2. Evidence of previous granulomatous infection. 3. Pectus carinatum.,507,no evidence active disease evidence previous granulomatous infection pectus carinatum,1
+CXR2454_IM-0989-1001,CXR2454_IM-0989-1002,Stable blunting of the left costophrenic XXXX which may represent persistent left pleural effusion versus pleural scarring.,3757,stable blunting left costophrenic xxxx may represent persistent left pleural effusion versus pleural scar,1
+CXR3323_IM-1589-0001-0003,CXR3323_IM-1589-0001-0003,1. Stable left chest dual XXXX ICD/pacemaker. 2. Improved lung volumes without acute cardiopulmonary abnormality. .,1382,stable left chest dual xxxx icd pacemaker improve lung volume without acute cardiopulmonary abnormality,1
+CXR29_IM-1302-1001,CXR29_IM-1302-2001,Borderline heart size. Elevated left diaphragm. Clear right lung. Tracheostomy tube tip above the carina. Extensive airspace disease in the left base. No large effusion or pneumothorax.,1221,borderline heart size elevate left diaphragm clear right lung tracheostomy tube tip above carina extensive airspace disease left base no large effusion pneumothorax,1
+CXR3822_IM-1930-1001,CXR3822_IM-1930-1001,Mediastinal cardiac size stable. No pneumothoraces or large pleural effusions. Pulmonary granulomas. No acute pulmonary process. No acute displaced rib fractures.,3380,mediastinal cardiac size stable no pneumothoraces large pleural effusion pulmonary granuloma no acute pulmonary process no acute displace rib fracture,1
+CXR925_IM-2425-1001,CXR925_IM-2425-2001,Cardiomegaly with pulmonary edema superimposed on chronic interstitial lung changes.,1835,cardiomegaly pulmonary edema superimpose chronic interstitial lung change,1
+CXR2769_IM-1212-1001,CXR2769_IM-1212-2001,1. No acute cardiopulmonary abnormality. 2. Stable bullous emphysematous changes.,2821,no acute cardiopulmonary abnormality stable bullous emphysematous change,1
+CXR2455_IM-0989-1001,CXR2455_IM-0989-2001,3 cm right upper lobe anterior segment mass. No effusion. No adenopathy. CT scan is the XXXX XXXX to determine if there is any mediastinal adenopathy. No bony abnormalities.,3901,cm right upper lobe anterior segment mass no effusion no adenopathy ct scan xxxx xxxx determine mediastinal adenopathy no bony abnormality,1
+CXR2741_IM-1196-1001,CXR2741_IM-1196-2001,The heart size and cardiomediastinal silhouette are stable and within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.,2813,heart size cardiomediastinal silhouette stable within normal limit pulmonary vasculature appear normal no focal air space consolidation no pleural effusion pneumothorax,1
+CXR1991_IM-0648-1001,CXR1991_IM-0648-2001,"1. Low lung volumes with streaky left basilar opacity, XXXX subsegmental atelectasis and scarring. Infiltrate is XXXX less XXXX but not entirely excluded. 2. Mild central vascular congestion and bronchovascular crowding.",3297,low lung volume streaky left basilar opacity xxxx subsegmental atelectasis scar infiltrate xxxx less xxxx not entirely exclude mild central vascular congestion bronchovascular crowd,1
+CXR1239_IM-0160-1001,CXR1239_IM-0160-2001,Heart size normal and lungs are clear. No edema or pneumonia. No effusion,3327,heart size normal lung clear no edema pneumonia no effusion,1
+CXR933_IM-2431-1001,CXR933_IM-2431-1002,No active disease.. No visible cardiopulmonary injuries.,1619,no active disease no visible cardiopulmonary injury,1
+CXR3248_IM-1538-1001,CXR3248_IM-1538-2001,Borderline heart size. Aortic atherosclerosis. Small volume effusions and basilar airspace disease. Right-sided central catheter tip low SVC. NG tube has been removed. There is mild XXXX-distention of this stomach.,2001,borderline heart size aortic atherosclerosis small volume effusion basilar airspace disease right side central catheter tip low svc ng tube remove mild xxxx distention stomach,1
+CXR1151_IM-0102-1001,CXR1151_IM-0102-2001,"Stable chest x-XXXX, without acute cardiopulmonary findings.",49,stable chest x xxxx without acute cardiopulmonary finding,1
+CXR3526_IM-1723-1001,CXR3526_IM-1723-2001,Low lung volumes without evidence of acute cardiopulmonary process.,1224,low lung volume without evidence acute cardiopulmonary process,1
+CXR3427_IM-1657-1001,CXR3427_IM-1657-2001,There is no evidence of acute cardiopulmonary disease. No radiographic evidence for active tuberculosis a .,360,no evidence acute cardiopulmonary disease no radiographic evidence active tuberculosis,1
+CXR2080_IM-0712-2002,CXR2080_IM-0712-3003,Well-expanded and clear lungs. Conspicuous for size 3-4 mm nodular opacity projecting in right lung is probably a small calcified granuloma. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.,3351,well expand clear lung conspicuous size mm nodular opacity project right lung probably small calcify granuloma mediastinal contour within normal limit no acute cardiopulmonary abnormality identify,1
+CXR1155_IM-0105-0001-0001,CXR1155_IM-0105-0001-0001,1. Clear lungs. No radiographic evidence of tuberculosis. 2. Stable scoliosis XXXX. .,942,clear lung no radiographic evidence tuberculosis stable scoliosis xxxx,1
+CXR1687_IM-0450-1001,CXR1687_IM-0450-2001,1. No acute cardiopulmonary abnormality. 2. Feeding tube tip XXXX distal to the gastroesophageal junction.,1928,no acute cardiopulmonary abnormality feed tube tip xxxx distal gastroesophageal junction,1
+CXR3589_IM-1767-1001,CXR3589_IM-1767-1002,"Streaky left basilar airspace opacities, which could reflect atelectasis and/or infection.",3702,streaky left basilar airspace opacity could reflect atelectasis infection,1
+CXR860_IM-2381-2001,CXR860_IM-2381-4001,Chronic lung disease without acute findings.,2188,chronic lung disease without acute finding,1
+CXR3601_IM-1777-2002,CXR3601_IM-1777-3003,1. Large hiatal hernia. 2. Clear lungs.,3547,large hiatal hernia clear lung,1
+CXR3600_IM-1776-1001,CXR3600_IM-1776-4004,"Heart size is within normal limits. No edema. Bandlike scarring in the right base. No pleural effusion, lobar consolidation or pneumothorax. Multiple coarse calcifications in the epigastrium are seen on the lateral radiograph, not well localized on the frontal image. Could represent pancreatic parenchymal calcifications of chronic pancreatitis or old granulomatous sequela.",3615,heart size within normal limit no edema bandlike scar right base no pleural effusion lobar consolidation pneumothorax multiple coarse calcification epigastrium see lateral radiograph not well localize frontal image could represent pancreatic parenchymal calcification chronic pancreatitis old granulomatous sequela,1
+CXR795_IM-2331-1001,CXR795_IM-2331-1002,Normal chest No evidence of tuberculosis.,3585,normal chest no evidence tuberculosis,1
+CXR3510_IM-1713-1001,CXR3510_IM-1713-4004,"Heart size mildly enlarged for technique. No focal alveolar consolidation, no definite pleural effusion seen. Bronchovascular crowding without typical findings of pulmonary edema.",2441,heart size mildly enlarge technique no focal alveolar consolidation no definite pleural effusion see bronchovascular crowd without typical finding pulmonary edema,1
+CXR2704_IM-1171-1001,CXR2704_IM-1171-2001,"1. XXXX indeterminant small nodular opacities. May be granulomas or bone islands. However, XXXX is recommended given the history of malignancy. 2. Otherwise no acute cardiac or pulmonary disease process identified.",383,xxxx indeterminant small nodular opacity may granuloma bone island however xxxx recommend give history malignancy otherwise no acute cardiac pulmonary disease process identify,1
+CXR2809_IM-1238-1001,CXR2809_IM-1238-2001,"There is a left IJ tunneled for catheter tip near the caval atrial junction. The heart size is normal. Mediastinal silhouette and pulmonary vascularity appear within normal limits. No edema. No focal airspace consolidation, pleural effusion or pulmonary mass seen.",1251,left ij tunnel catheter tip near caval atrial junction heart size normal mediastinal silhouette pulmonary vascularity appear within normal limit no edema no focal airspace consolidation pleural effusion pulmonary mass see,1
+CXR459_IM-2090-1001,CXR459_IM-2090-2001,No evidence of acute cardiopulmonary process. Negative examination of the chest.,1043,no evidence acute cardiopulmonary process negative examination chest,1
+CXR300_IM-1385-1001,CXR300_IM-1385-1002,Changes of chronic lung disease with no acute cardiopulmonary finding.,1282,change chronic lung disease no acute cardiopulmonary find,1
+CXR983_IM-2471-1001,CXR983_IM-2471-2001,"1. No acute cardiopulmonary process. 2. Stable right middle lobe bronchiectasis, XXXX postinfectious/postinflammatory. .",354,no acute cardiopulmonary process stable right middle lobe bronchiectasis xxxx postinfectious postinflammatory,1
+CXR1799_IM-0519-1001,CXR1799_IM-0519-2001,No acute right pulmonary findings.,3887,no acute right pulmonary finding,1
+CXR2093_IM-0723-1001,CXR2093_IM-0723-2001,No focal lung infiltrates.,3803,no focal lung infiltrates,1
+CXR2191_IM-0801-1001,CXR2191_IM-0801-1001,Findings consistent with left base airspace disease.,2946,finding consistent left base airspace disease,1
+CXR1130_IM-0087-1001,CXR1130_IM-0087-3003,1. Ill-defined oblong opacity in the lateral right base. This may represent pleural based process. The exact XXXX is unclear. Followup exam is suggested to confirm clearing or stability.,1432,ill define oblong opacity lateral right base may represent pleural base process exact xxxx unclear followup exam suggest confirm clearing stability,1
+CXR498_IM-2115-1001,CXR498_IM-2115-3003,Large medial right upper lobe mass highly concerning for primary lung cancer. XXXX chest with intravenous contrast for further evaluation. XXXX XXXX XXXX. XXXX's XXXX was notified of this result at XXXXPM XXXX/XXXX and accepted receipt. Results were faxed. .,1426,large medial right upper lobe mass highly concern primary lung cancer xxxx chest intravenous contrast evaluation xxxx xxxx xxxx xxxxs xxxx notify result xxxxpm xxxx xxxx accepted receipt result faxed,1
+CXR2574_IM-1074-1001,CXR2574_IM-1074-1002,heart size normal. Lungs clear. Calcified 5 mm right midlung granuloma.,1647,heart size normal lung clear calcify mm right midlung granuloma,1
+CXR2387_IM-0943-1001,CXR2387_IM-0943-2001,1. Moderate thoracic spondylosis. 2. No acute cardiopulmonary abnormality.,2915,moderate thoracic spondylosis no acute cardiopulmonary abnormality,1
+CXR157_IM-0372-1001,CXR157_IM-0372-1001,Chest. Resolving pulmonary interstitial edema and pulmonary venous hypertension.,2953,chest resolve pulmonary interstitial edema pulmonary venous hypertension,1
+CXR2001_IM-0654-2001,CXR2001_IM-0654-8001,Lordotic film. Low lung volumes. Heart size within normal limits for this projection. Lower thoracic spine fusion. Small area of atelectasis or infiltrate adjacent to the right inferior hilum. This may be projectional followup films may be helpful.,1372,lordotic film low lung volume heart size within normal limit projection low thoracic spine fusion small area atelectasis infiltrate adjacent right inferior hilum may projectional followup film may helpful,1
+CXR3895_IM-1977-1001,CXR3895_IM-1977-2001,1. Left lower lobe opacities XXXX representing pneumonia. 2. Enlargement of the central pulmonary arteries raising the question of pulmonary hypertension.,2126,left low lobe opacity xxxx represent pneumonia enlargement central pulmonary artery raise question pulmonary hypertension,1
+CXR3645_IM-1807-2001,CXR3645_IM-1807-2001,Slight basilar prominence of lung markings most XXXX representing some mild chronic inflammatory change. No acute airspace disease or effusions. Mediastinal contour within normal limits.,1082,slight basilar prominence lung marking xxxx represent mild chronic inflammatory change no acute airspace disease effusion mediastinal contour within normal limit,1
+CXR3846_IM-1946-1001,CXR3846_IM-1946-3001,Recurrent moderate sized left pleural effusion.,2777,recurrent moderate size left pleural effusion,1
+CXR2608_IM-1098-1001,CXR2608_IM-1098-2001,Persistent bibasilar airspace disease and bilateral pleural fluid.,2916,persistent bibasilar airspace disease bilateral pleural fluid,1
+CXR3950_IM-2019-1002,CXR3950_IM-2019-1002,Catheter tip mid SVC. Heart size is normal. No acute alveolar or interstitial infiltrates. The 9th posterior lateral right rib is slightly expanded and this may be the site of an old healed fracture. Otherwise no acute rib fractures seen. Bone scan may be informative,3914,catheter tip mid svc heart size normal no acute alveolar interstitial infiltrates th posterior lateral right rib slightly expand may site old heal fracture otherwise no acute rib fracture see bone scan may informative,1
+CXR1071_IM-0051-2001,CXR1071_IM-0051-2001,No acute cardiopulmonary abnormalities. No acute displaced fractures.,2376,no acute cardiopulmonary abnormality no acute displace fracture,1
+CXR3451_IM-1674-1001,CXR3451_IM-1674-3001,Stable blunting of right costophrenic XXXX with small pleural effusion versus thickening and associated healed right rib deformities.,1377,stable blunting right costophrenic xxxx small pleural effusion versus thicken associate heal right rib deformity,1
+CXR3842_IM-1943-1001,CXR3842_IM-1943-3003,1. Low lung volumes 2. Lungs appear clear 3. Heart and pulmonary XXXX are normal 4. Pleural spaces are clear,2140,low lung volume lung appear clear heart pulmonary xxxx normal pleural space clear,1
+CXR682_IM-2253-1001,CXR682_IM-2253-2001,1. No acute cardiopulmonary disease 2. No suspicious pulmonary nodules or masses. No evidence of disease recurrence.,2676,no acute cardiopulmonary disease no suspicious pulmonary nodule mass no evidence disease recurrence,1
+CXR3289_IM-1570-1001,CXR3289_IM-1570-2001,No active or acute cardiopulmonary disease.,2450,no active acute cardiopulmonary disease,1
+CXR2003_IM-0654-1001,CXR2003_IM-0654-2001,1. Borderline enlarged heart without acute abnormality.,1117,borderline enlarge heart without acute abnormality,1
+CXR3062_IM-1428-1001,CXR3062_IM-1428-1001,No acute pulmonary abnormalities.,2018,no acute pulmonary abnormality,1
+CXR3794_IM-1908-1001,CXR3794_IM-1908-1002,1. 6 mm left lung nodular opacity. Recommend comparison with prior images. If prior images are not available than further evaluation with CT chest is recommended. Old chest film from XXXX / XXXX from XXXX was reviewed and the questionable nodule was not XXXX seen.,796,mm left lung nodular opacity recommend comparison prior image prior image not available evaluation ct chest recommend old chest film xxxx xxxx xxxx review questionable nodule not xxxx see,1
+CXR1070_IM-0050-1001,CXR1070_IM-0050-2001,"1. There is abnormal separation of right XXXX XXXX, question very acute versus chronic injury. Correlate for focal pain. If indicated consider dedicated right shoulder films. 2. No acute cortical artery disease.",2296,abnormal separation right xxxx xxxx question acute versus chronic injury correlate focal pain indicate consider dedicate right shoulder film no acute cortical artery disease,1
+CXR995_IM-2478-1001,CXR995_IM-2478-1002,Post operative chest with no acute disease.,144,post operative chest no acute disease,1
+CXR1580_IM-0378-1001,CXR1580_IM-0378-2001,"1. No focal airspace consolidation. 2. Mildly hyperexpanded lungs, suggestive of obstructive lung disease.",398,no focal airspace consolidation mildly hyperexpanded lung suggestive obstructive lung disease,1
+CXR2370_IM-0931-1001,CXR2370_IM-0931-2001,Left lower lobe airspace disease consistent with pneumonia. Associated right pleural effusion.,1780,left low lobe airspace disease consistent pneumonia associate right pleural effusion,1
+CXR2962_IM-1355-1001,CXR2962_IM-1355-2001,Stable cardiomegaly with no focal airspace disease.,2117,stable cardiomegaly no focal airspace disease,1
+CXR205_IM-0689-2002,CXR205_IM-0689-3003,Stable normal heart size. Elevated right diaphragm. Lungs are clear.,827,stable normal heart size elevate right diaphragm lung clear,1
+CXR2722_IM-1184-1001,CXR2722_IM-1184-2001,1. Cardiomegaly. 2. Pleural thickening along the inferior left lateral chest wall stable since the prior examination.,3819,cardiomegaly pleural thicken along inferior left lateral chest wall stable since prior examination,1
+CXR2363_IM-0926-1001,CXR2363_IM-0926-2001,Right middle lobe and lower lobe pneumonia. Followup radiographs in 8-12 weeks after appropriate therapy are indicated to exclude an underlying abnormality.,1427,right middle lobe low lobe pneumonia followup radiograph week appropriate therapy indicate exclude underlie abnormality,1
+CXR1595_IM-0386-1001,CXR1595_IM-0386-2001,Persistent cardiomegaly. Right midlung scar. No visible acute failure or pneumonia.,345,persistent cardiomegaly right midlung scar no visible acute failure pneumonia,1
+CXR686_IM-2254-1001,CXR686_IM-2254-2001,Cardiomegaly. Clear lungs. .,2233,cardiomegaly clear lung,1
+CXR3875_IM-1967-1001,CXR3875_IM-1967-1001,Stable left lower lung interstitial infiltrates or fibrosis. No acute cardiopulmonary findings.,1317,stable left low lung interstitial infiltrates fibrosis no acute cardiopulmonary finding,1
+CXR3799_IM-1911-2001,CXR3799_IM-1911-4001,"Heart size is normal. Minimal subsegmental atelectasis in the left base, seen XXXX on the lateral film, otherwise lungs are clear. Degenerative disease of thoracic spine. Stable left lower lobe 5 mm granuloma adjacent to the heart XXXX.",3162,heart size normal minimal subsegmental atelectasis left base see xxxx lateral film otherwise lung clear degenerative disease thoracic spine stable left low lobe mm granuloma adjacent heart xxxx,1
+CXR2372_IM-0933-0001-0001,CXR2372_IM-0933-0001-0002,Bandlike opacities in the right lung. Appearance XXXX atelectasis.,1682,bandlike opacity right lung appearance xxxx atelectasis,1
+CXR3815_IM-1924-1001,CXR3815_IM-1924-2001,"Heart size and mediastinal contour normal. There is mild diffuse interstitial prominence, worse in the right lung base. This has developed in the interval, and may represent atypical pneumonia. More focal right base airspace disease may represent scar given the stability over time. No lobar consolidation or effusion. No pneumothorax.",75,heart size mediastinal contour normal mild diffuse interstitial prominence bad right lung base developed interval may represent atypical pneumonia focal right base airspace disease may represent scar give stability time no lobar consolidation effusion no pneumothorax,1
+CXR1653_IM-0429-2001,CXR1653_IM-0429-2001,"Stable pacemaker generator within the left chest with 2 distal leads terminating in the right atrium and right ventricle, also in stable position. No pneumothorax.",1668,stable pacemaker generator within left chest distal lead terminate right atrium right ventricle also stable position no pneumothorax,1
+CXR1210_IM-0142-1001,CXR1210_IM-0142-2001,Age-indeterminate lower thoracic slight XXXX deformity otherwise negative exam.,3347,age indeterminate low thoracic slight xxxx deformity otherwise negative exam,1
+CXR462_IM-2090-1001,CXR462_IM-2090-2001,"1. Mild cardiomegaly. 2. Otherwise, no acute cardiopulmonary abnormalities.",1689,mild cardiomegaly otherwise no acute cardiopulmonary abnormality,1
+CXR2790_IM-1224-1001,CXR2790_IM-1224-2001,1. No acute cardiopulmonary abnormalities. Stable mild interstitial prominence.,2317,no acute cardiopulmonary abnormality stable mild interstitial prominence,1
+CXR332_IM-1588-1001,CXR332_IM-1588-2001,"Streaky left retrocardiac airspace opacities, in the correct clinical setting this could represent a pneumonia.",2904,streaky left retrocardiac airspace opacity correct clinical set could represent pneumonia,1
+CXR2795_IM-1227-1001,CXR2795_IM-1227-2001,"Diffuse reticulonodular pattern bilaterally. The this may represent heart failure, opportunistic infection, or idiopathic interstitial pneumonitis. XXXX of chest for further characterization.",2560,diffuse reticulonodular pattern bilaterally may represent heart failure opportunistic infection idiopathic interstitial pneumonitis xxxx chest characterization,1
+CXR2006_IM-0656-1001,CXR2006_IM-0656-2001,Cardiomegaly without superimposed acute disease identified.,1839,cardiomegaly without superimpose acute disease identify,1
+CXR2859_IM-1266-1001,CXR2859_IM-1266-2001,Opacity XXXX representing left upper lobe pneumonia. Recommend followup radiographically until cleared to ensure that there is no underlying mass.,3707,opacity xxxx represent left upper lobe pneumonia recommend followup radiographically clear ensure no underlie mass,1
+CXR1631_IM-0412-0001-0001,CXR1631_IM-0412-0001-0002,"Few small nodular opacities in the left upper lung. These small nodules are relatively dense, suggestive of chronic granulomatous disease. Comparison with an XXXX chest radiograph would be helpful to establish stability.",562,small nodular opacity left upper lung small nodule relatively dense suggestive chronic granulomatous disease comparison xxxx chest radiograph would helpful establish stability,1
+CXR2999_IM-1383-0001-0001,CXR2999_IM-1383-0001-0002,"1. Patchy left basilar subsegmental atelectasis, infiltrates and/or small left pleural effusion. .",2814,patchy left basilar subsegmental atelectasis infiltrates small left pleural effusion,1
+CXR3385_IM-1632-1001,CXR3385_IM-1632-2001,No lobar pneumonia,890,no lobar pneumonia,1
+CXR420_IM-2064-1001,CXR420_IM-2064-2001,"1. Vague density in right XXXX, XXXX related to scapular tip and superimposed ribs. Consider oblique images to exclude true nodule. 2. No acute cardiopulmonary abnormality.",3655,vague density right xxxx xxxx related scapular tip superimpose rib consider oblique image exclude true nodule no acute cardiopulmonary abnormality,1
+CXR1791_IM-0515-1001,CXR1791_IM-0515-2001,1. No acute radiographic cardiopulmonary process. 2. Mild hyperinflation.,826,no acute radiographic cardiopulmonary process mild hyperinflation,1
+CXR1693_IM-0454-1001,CXR1693_IM-0454-1001,Mild chronic changes in the left lung base without acute disease.,1931,mild chronic change left lung base without acute disease,1
+CXR2928_IM-1330-1001,CXR2928_IM-1330-13013,1. No acute cardiopulmonary abnormalities. 2. Multiple chronic changes as described above. .,3054,no acute cardiopulmonary abnormality multiple chronic change,1
+CXR1326_IM-0210-0001-0001,CXR1326_IM-0210-0001-0002,"Stable right-sided subclavian central venous catheter with tip approximating the SVC. Stable right suprahilar opacity, compatible with history of right upper lobe mass. Elevation of the right hemidiaphragm. Right-sided pneumothorax noted measuring approximately 1.8 cm from the the right apex. Stable postsurgical changes left axilla. Degenerative changes thoracic spine. Stable streaky opacities right base. XXXX opacity right midlung, question fluid level, incompletely evaluated, no recent XXXX for comparison.",1469,stable right side subclavian central venous catheter tip approximate svc stable right suprahilar opacity compatible history right upper lobe mass elevation right hemidiaphragm right side pneumothorax note measure approximately cm right apex stable postsurgical change left axilla degenerative change thoracic spine stable streaky opacity right base xxxx opacity right midlung question fluid level incompletely evaluate no recent xxxx comparison,1
+CXR2352_IM-0918-1002,CXR2352_IM-0918-1002,"Heart size is normal. Lungs are clear. Lower cervical spine fusion and sternotomy. Old healed left mid posterior rib fractures. Emphysema. No nodules, masses or adenopathy.",2506,heart size normal lung clear low cervical spine fusion sternotomy old heal left mid posterior rib fracture emphysema no nodule mass adenopathy,1
+CXR3584_IM-1763-1001-0002,CXR3584_IM-1763-1001-0002,"The lungs are hypoinflated. There is focal airspace disease in the right lung base concerning for pneumonia or aspiration. There is minimal airspace disease in the left lung base, XXXX atelectasis. There is no pneumothorax or large pleural effusion. Heart size is normal.",259,lung hypoinflated focal airspace disease right lung base concern pneumonia aspiration minimal airspace disease left lung base xxxx atelectasis no pneumothorax large pleural effusion heart size normal,1
+CXR3644_IM-1807-1001,CXR3644_IM-1807-2001,Negative for acute abnormality. Left ventricular enlargement. Tortuous thoracic aorta.,1154,negative acute abnormality left ventricular enlargement tortuous thoracic aorta,1
+CXR3080_IM-1440-1001,CXR3080_IM-1440-1002,Bullous disease and upper lobe scars. Decreasing right upper lobe cavity.,1033,bullous disease upper lobe scar decrease right upper lobe cavity,1
+CXR976_IM-2464-1001,CXR976_IM-2464-2001,Postoperative chest. Hypoinflation with no visible active cardiopulmonary disease.,3070,postoperative chest hypoinflation no visible active cardiopulmonary disease,1
+CXR2303_IM-0882-1001,CXR2303_IM-0882-2001,Heart upper limits normal. Lungs clear,191,heart upper limit normal lung clear,1
+CXR1593_IM-0385-1001,CXR1593_IM-0385-2001,1. Moderate right pleural effusion.,853,moderate right pleural effusion,1
+CXR2330_IM-0900-2001,CXR2330_IM-0900-2001,"Tracheostomy tube terminates at the level of the clavicles. Moderate cardiomegaly stable. Increased interstitial markings and patchy opacities through the bases. Nonspecific, findings may indicate edema or atypical infection. No pleural effusions. No pneumothorax.",3650,tracheostomy tube terminates level clavicle moderate cardiomegaly stable increase interstitial marking patchy opacity base nonspecific finding may indicate edema atypical infection no pleural effusion no pneumothorax,1
+CXR174_IM-0488-1001,CXR174_IM-0488-2001,1. Left PICC tip at cavoatrial junction. 2. No acute cardiopulmonary abnormality.,493,left picc tip cavoatrial junction no acute cardiopulmonary abnormality,1
+CXR3718_IM-1856-2001,CXR3718_IM-1856-2001,Heart size is within normal limits. Mild prominence pulmonary outflow tract otherwise pulmonary vascularity appears within normal limits. No edema. No lobar consolidation or pleural effusion. No pneumothorax. Cholecystectomy clips are seen in the right upper abdomen.,1182,heart size within normal limit mild prominence pulmonary outflow tract otherwise pulmonary vascularity appear within normal limit no edema no lobar consolidation pleural effusion no pneumothorax cholecystectomy clip see right upper abdomen,1
+CXR1504_IM-0330-1001,CXR1504_IM-0330-2001,"Grossly, the heart size is normal in the lungs are clear. No displaced bony injuries are present.",2586,grossly heart size normal lung clear no displace bony injury present,1
+CXR1651_IM-0427-1001,CXR1651_IM-0427-1002,Heart size or great lungs are clear. Calcified 5 mm granuloma in the right upper lobe underneath the second anterior rib end.,1785,heart size great lung clear calcify mm granuloma right upper lobe underneath second anterior rib end,1
+CXR3519_IM-1717-1001,CXR3519_IM-1717-1002,Large left lower lobe opacity XXXX represents a large layering pleural effusion. Right lung is clear.,1460,large left low lobe opacity xxxx represent large layer pleural effusion right lung clear,1
+CXR3162_IM-1487-1001,CXR3162_IM-1487-2001,No suspicious appearing lung nodules identified. Well-expanded and clear lungs. Mediastinal contour within normal limits. Right middle lobe scarring as before. No acute cardiopulmonary abnormality identified.,3287,no suspicious appear lung nodule identify well expand clear lung mediastinal contour within normal limit right middle lobe scar no acute cardiopulmonary abnormality identify,1
+CXR1727_IM-0479-1001,CXR1727_IM-0479-2001,"1. Left midlung opacity, not well seen on prior exam, may represent focus of airspace disease. 2. Stable left base opacities, XXXX scarring or atelectasis. 2. Postsurgical changes as above. .",1638,left midlung opacity not well see prior exam may represent focus airspace disease stable left base opacity xxxx scar atelectasis postsurgical change,1
+CXR2729_IM-1187-1001,CXR2729_IM-1187-2001,1. No evidence of active cardiopulmonary disease. 2. Posttraumatic changes compatible with prior gunshot wound.,626,no evidence active cardiopulmonary disease posttraumatic change compatible prior gunshot wound,1
+CXR2059_IM-0696-1001,CXR2059_IM-0696-2001,"Patchy right lower lobe opacities, XXXX infectious infiltrate.",869,patchy right low lobe opacity xxxx infectious infiltrate,1
+CXR1479_IM-0311-1001,CXR1479_IM-0311-2001,"Heart size, mediastinal silhouette, pulmonary vascularity are within normal limits. No focal consolidation or pleural effusion. No pneumothorax. Mild right apex curvature of the upper thoracic spine is nonspecific and could be related to patient positioning. Nodular opacity projecting over the posterior right 9th rib and XXXX reflects granuloma.",1711,heart size mediastinal silhouette pulmonary vascularity within normal limit no focal consolidation pleural effusion no pneumothorax mild right apex curvature upper thoracic spine nonspecific could related patient position nodular opacity project posterior right th rib xxxx reflect granuloma,1
+CXR3935_IM-2006-1001,CXR3935_IM-2006-2001,1. Blunting of the right costophrenic XXXX. This may represent pleural effusion or pleural reaction. 2. Clearing of left base airspace disease. 3. Outward XXXX of PICC line. Tip now projects over upper SVC.,2419,blunting right costophrenic xxxx may represent pleural effusion pleural reaction clearing left base airspace disease outward xxxx picc line tip project upper svc,1
+CXR3348_IM-1605-1001,CXR3348_IM-1605-2001,No acute cardiopulmonary abnormalities. Stable cardiomegaly.,3328,no acute cardiopulmonary abnormality stable cardiomegaly,1
+CXR240_IM-0950-1001,CXR240_IM-0950-1001,1. Chest. No change right upper lobe scar. No acute disease. 2. Lumbosacral spine. Multiple levels of advanced degenerative disc disease and XXXX arthritis.,2391,chest no change right upper lobe scar no acute disease lumbosacral spine multiple level advanced degenerative disc disease xxxx arthritis,1
+CXR2385_IM-0942-1001,CXR2385_IM-0942-1002,"heart size is normal, lungs are clear. No nodular masses. CT scan is more sensitive in detecting small nodules.",2495,heart size normal lung clear no nodular mass ct scan sensitive detect small nodule,1
+CXR1805_IM-0523-1001,CXR1805_IM-0523-2001,"Heart size, mediastinal silhouette and pulmonary vascularity are within normal limits. Lungs are well expanded with no focal infiltrate or pleural effusion. No pneumothorax.",202,heart size mediastinal silhouette pulmonary vascularity within normal limit lung well expand no focal infiltrate pleural effusion no pneumothorax,1
+CXR535_IM-2142-1001,CXR535_IM-2142-2001,XXXX opacity in left lung base XXXX represents atelectasis or scarring.,2780,xxxx opacity left lung base xxxx represent atelectasis scar,1
+CXR439_IM-2078-1001,CXR439_IM-2078-2001,Small calcification right lung base with appearance of old granulomatous disease. Also small perihilar calcified lymph XXXX. Lungs are clear. No active parenchymal disease. No XXXX of pleural effusions. No pulmonary edema. Normal heart size. No XXXX of active cardiopulmonary disease. Unchanged.,297,small calcification right lung base appearance old granulomatous disease also small perihilar calcify lymph xxxx lung clear no active parenchymal disease no xxxx pleural effusion no pulmonary edema normal heart size no xxxx active cardiopulmonary disease unchanged,1
+CXR1840_IM-0545-1001,CXR1840_IM-0545-2001,"1. Asymmetric left suprahilar opacity, consider focal airspace disease or adenopathy. Correlate clinically as to XXXX or symptoms of infection. Recommend followup radiograph to document resolution.",2492,asymmetric left suprahilar opacity consider focal airspace disease adenopathy correlate clinically xxxx symptom infection recommend followup radiograph document resolution,1
+CXR13_IM-0198-1001,CXR13_IM-0198-2001,Borderline enlargement of the cardiac silhouette without acute pulmonary disease.,1716,borderline enlargement cardiac silhouette without acute pulmonary disease,1
+CXR1265_IM-0179-1001,CXR1265_IM-0179-2001,"Circumscribed structure in the AP XXXX could represent lymphadenopathy, mass, pulmonary arterial abnormality XXXX as aneurysm, or enlargement of the left atrial appendage. As prior chest x-XXXX are not available online at this XXXX should be considered.",2077,circumscribed structure ap xxxx could represent lymphadenopathy mass pulmonary arterial abnormality xxxx aneurysm enlargement left atrial appendage prior chest x xxxx not available online xxxx consider,1
+CXR442_IM-2078-1001,CXR442_IM-2078-2001,XXXX change COPD with no acute findings.,2504,xxxx change copd no acute finding,1
+CXR3120_IM-1466-1001,CXR3120_IM-1466-2001,"1. No acute cardiopulmonary abnormalities. Specifically, no pneumothorax. 2. Fractures of the posterior left 4th, 5th, and 6th ribs, age-indeterminate.",1320,no acute cardiopulmonary abnormality specifically no pneumothorax fracture posterior left th th th rib age indeterminate,1
+CXR422_IM-2065-5001,CXR422_IM-2065-6001,Calcified granuloma periphery left lung. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.,3748,calcify granuloma periphery left lung well expand clear lung mediastinal contour within normal limit no acute cardiopulmonary abnormality identify,1
+CXR1255_IM-0172-1001-0001,CXR1255_IM-0172-1001-0002,1. XXXX XXXX right-sided chest tube tip projects outside the thoracic cavity. No residual pneumothorax. 2. Small residual pneumoperitoneum consistent with known colonic perforation. .,1848,xxxx xxxx right side chest tube tip project outside thoracic cavity no residual pneumothorax small residual pneumoperitoneum consistent know colonic perforation,1
+CXR1934_IM-0604-1001,CXR1934_IM-0604-2001,Suspected left hemidiaphragm paralysis. Consider a fluoroscopic evaluation for confirmation. Consider XXXX of the neck and nasopharynx with intravenous contrast if there is no known potential XXXX. Critical result notification documented through Primordial.,2527,suspect left hemidiaphragm paralysis consider fluoroscopic evaluation confirmation consider xxxx neck nasopharynx intravenous contrast no know potential xxxx critical result notification document primordial,1
+CXR3665_IM-1823-1001,CXR3665_IM-1823-2001,1. No acute abnormality. 2. No evidence of pulmonary tuberculosis.,2129,no acute abnormality no evidence pulmonary tuberculosis,1
+CXR1958_IM-0625-1001,CXR1958_IM-0625-3003,COPD. No acute abnormality.,68,copd no acute abnormality,1
+CXR3074_IM-1435-1001,CXR3074_IM-1435-2001,Vague patchy opacity in the right midlung which may represent an early pneumonia given patient's history.,2407,vague patchy opacity right midlung may represent early pneumonia give patient history,1
+CXR3000_IM-1386-0001-0001,CXR3000_IM-1386-0001-0002,"1. Multiple bilateral pulmonary nodules, concerning for metastatic disease. 2. Prominent left hilum. After correlation with the XXXX scan performed today, findings XXXX reflect enlargement of the left pulmonary artery.",3153,multiple bilateral pulmonary nodule concern metastatic disease prominent left hilum correlation xxxx scan perform today finding xxxx reflect enlargement left pulmonary artery,1
+CXR3992_IM-2044-1001,CXR3992_IM-2044-2001,Prior sternotomy. Midline sternotomy XXXX. Normal heart size. Vascular congestion. No overt edema or lobar pneumonia. No pleural effusion.,3758,prior sternotomy midline sternotomy xxxx normal heart size vascular congestion no overt edema lobar pneumonia no pleural effusion,1
+CXR3178_IM-1498-1001,CXR3178_IM-1498-2001,"Heart size within normal limits. Dense mitral annular calcification. Tortuous and ectatic, atherosclerotic aorta. No edema. Lungs mildly hyperinflated. There is left basilar scarring. No XXXX consolidation, pleural effusion or pneumothorax.",913,heart size within normal limit dense mitral annular calcification tortuous ectatic atherosclerotic aorta no edema lung mildly hyperinflated left basilar scar no xxxx consolidation pleural effusion pneumothorax,1
+CXR2906_IM-1310-1001,CXR2906_IM-1310-2001,"Heart size is normal. Mediastinal silhouette and pulmonary vascularity are within normal limits. There is no focal airspace consolidation, pleural effusion or pneumothorax. There is a dextroscoliosis of the thoracic spine.",3557,heart size normal mediastinal silhouette pulmonary vascularity within normal limit no focal airspace consolidation pleural effusion pneumothorax dextroscoliosis thoracic spine,1
+CXR3418_IM-1653-1001,CXR3418_IM-1653-2001,"Prominent interstitial markings, XXXX represent XXXX bronchiolitis. No focal areas of consolidation. .",121,prominent interstitial marking xxxx represent xxxx bronchiolitis no focal area consolidation,1
+CXR28_IM-1231-1001,CXR28_IM-1231-2001,"1. Interval improvement in consolidative left base opacity. Multifocal scattered bibasilar patchy and XXXX pulmonary opacities again noted, most consistent with atelectasis/infiltrate. 2. Stable enlarged cardiomediastinal silhouette. Stable pulmonary vascular congestion. .",1020,interval improvement consolidative left base opacity multifocal scatter bibasilar patchy xxxx pulmonary opacity note consistent atelectasis infiltrate stable enlarge cardiomediastinal silhouette stable pulmonary vascular congestion,1
+CXR1343_IM-0222-0001-0001,CXR1343_IM-0222-0001-0002,1. Mild cardiomegaly and moderate hiatal hernia.,967,mild cardiomegaly moderate hiatal hernia,1
+CXR3198_IM-1509-3001,CXR3198_IM-1509-4004,"The heart size is normal. The mediastinal silhouette and pulmonary vascularity are within normal limits. The lungs are clear without interval consolidation, pleural effusion or pneumothorax. Mild degenerative endplate spurring in the mid thoracic spine.",3522,heart size normal mediastinal silhouette pulmonary vascularity within normal limit lung clear without interval consolidation pleural effusion pneumothorax mild degenerative endplate spur mid thoracic spine,1
+CXR489_IM-2110-1001,CXR489_IM-2110-2001,"1. No acute cardiopulmonary abnormalities. 2. No acute bony abnormalities. If there is continued concern for occult fracture, consider dedicated rib series. .",1680,no acute cardiopulmonary abnormality no acute bony abnormality continued concern occult fracture consider dedicate rib series,1
+CXR619_IM-2202-1002,CXR619_IM-2202-1003,"Cardiomegaly, however no acute cardiopulmonary findings.",2955,cardiomegaly however no acute cardiopulmonary finding,1
+CXR3801_IM-1912-1001,CXR3801_IM-1912-1001,1. Interstitial pulmonary edema. 2. Cardiomegaly.,79,interstitial pulmonary edema cardiomegaly,1
+CXR2599_IM-1089-1001,CXR2599_IM-1089-1001,"Left upper lobe opacities, cannot exclude mass lesions. Recommend CT chest for further evaluation.",1172,left upper lobe opacity can not exclude mass lesion recommend ct chest evaluation,1
+CXR684_IM-2254-1001,CXR684_IM-2254-1001,Cardiomegaly. No infiltrates or effusions. Right catheter tip upper SVC. The XXXX appears to be a normal orientation on the lateral film. There's been no change in position of the catheter since the prior exam.,2198,cardiomegaly no infiltrates effusion right catheter tip upper svc xxxx appear normal orientation lateral film there no change position catheter since prior exam,1
+CXR2801_IM-1233-2002,CXR2801_IM-1233-3003,Suboptimal inspiration with mild bibasilar hypoventilation and some subsegmental atelectasis within right middle lobe. otherwise clear lungs with no acute airspace disease seen. No effusions. Stable and unremarkable mediastinal contour. No XXXX acute abnormalities since the previous chest radiograph.,2452,suboptimal inspiration mild bibasilar hypoventilation subsegmental atelectasis within right middle lobe otherwise clear lung no acute airspace disease see no effusion stable unremarkable mediastinal contour no xxxx acute abnormality since previous chest radiograph,1
+CXR2513_IM-1035-1001,CXR2513_IM-1035-1001,1. XXXX large hiatal hernia. 2. Left base atelectasis.,344,xxxx large hiatal hernia left base atelectasis,1
+CXR2135_IM-0757-1001,CXR2135_IM-0757-3003,1. Unchanged cardiomegaly. 2. Question XXXX pleural effusions.,2981,unchanged cardiomegaly question xxxx pleural effusion,1
+CXR915_IM-2418-2002,CXR915_IM-2418-3003,Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. A few small calcifications in the left lung base with appearance of old granulomatous disease. Otherwise lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of active cardiopulmonary disease.,2085,normal heart size normal pulmonary vasculature normal mediastinal contour small calcification left lung base appearance old granulomatous disease otherwise lung parenchyma clear no airspace disease no pulmonary edema no xxxx pleural effusion no xxxx active cardiopulmonary disease,1
+CXR3013_IM-1391-0001-0001,CXR3013_IM-1391-0001-0002,"Probable mild cardiomegaly, without evidence of acute failure. No focal airspace disease. .",3511,probable mild cardiomegaly without evidence acute failure no focal airspace disease,1
+CXR700_IM-2265-1001,CXR700_IM-2265-4004,Stable appearance of the chest. No acute findings.,1634,stable appearance chest no acute finding,1
+CXR2674_IM-1149-1001,CXR2674_IM-1149-2001,Normal heart size. Normal pulmonary vasculature. Normal mediastinal contours. Lung parenchyma is clear. No airspace disease. No pulmonary edema. No XXXX of pleural effusions. No XXXX of metastasis. No XXXX of active cardiopulmonary disease.,509,normal heart size normal pulmonary vasculature normal mediastinal contour lung parenchyma clear no airspace disease no pulmonary edema no xxxx pleural effusion no xxxx metastasis no xxxx active cardiopulmonary disease,1
+CXR3844_IM-1945-1001,CXR3844_IM-1945-2001,Heart size upper limits of normal with clear lungs.,2639,heart size upper limit normal clear lung,1
+CXR3994_IM-2045-1001,CXR3994_IM-2045-2001,Mild cardiomegaly with XXXX of early failure.,3264,mild cardiomegaly xxxx early failure,1
+CXR1339_IM-0218-1001,CXR1339_IM-0218-2001,1. Small 3.3 mm right-sided pneumothorax.,2004,small mm right side pneumothorax,1
+CXR2462_IM-0995-1001,CXR2462_IM-0995-3001,1. Cardiomegaly and findings of prior asbestos exposure without interval acute cardiopulmonary findings.,550,cardiomegaly finding prior asbestos exposure without interval acute cardiopulmonary finding,1
+CXR736_IM-2295-1001-0001,CXR736_IM-2295-1001-0002,Prominent hiatal hernia. Left basilar opacity compatible pleural effusion and atelectasis. XXXX right pleural effusion. No pulmonary edema / overt CHF identified. Stable senescent mediastinal contour.,2850,prominent hiatal hernia left basilar opacity compatible pleural effusion atelectasis xxxx right pleural effusion no pulmonary edema overt chf identify stable senescent mediastinal contour,1
+CXR2241_IM-0839-28001,CXR2241_IM-0839-28001,"No acute findings. Biapical opacities, XXXX scarring.",3362,no acute finding biapical opacity xxxx scar,1
+CXR1493_IM-0318-1001,CXR1493_IM-0318-1001,Stable chest. Elevated left diaphragm. Two bullets overlie the left chest. Heart size normal. Persistent 1.8 cm right midlung nodule without definite calcification. CT scan may be informative if patient is at high XXXX for lung cancer.,1499,stable chest elevate left diaphragm two bullet overlie left chest heart size normal persistent cm right midlung nodule without definite calcification ct scan may informative patient high xxxx lung cancer,1
+CXR1306_IM-0200-2001,CXR1306_IM-0200-3001,No evidence of acute cardiopulmonary process or significant interval change.,2224,no evidence acute cardiopulmonary process significant interval change,1
+CXR3562_IM-1747-1001,CXR3562_IM-1747-2001,1. Low volume study without acute process.,3670,low volume study without acute process,1
+CXR1626_IM-0407-1001,CXR1626_IM-0407-3003,Numerous bilateral pulmonary nodules with dominant nodule/mass in the left lower lung. Diagnostic considerations would include primary lung carcinoma with metastatic nodules versus secondary metastatic disease from known brain tumor. Suggest clinical correlation and further imaging XXXX examination.,811,numerous bilateral pulmonary nodule dominant nodule mass left low lung diagnostic consideration would include primary lung carcinoma metastatic nodule versus secondary metastatic disease know brain tumor suggest clinical correlation image xxxx examination,1
+CXR1235_IM-0158-1001,CXR1235_IM-0158-2001,Hypoinflation with lingular focal atelectasis.,613,hypoinflation lingular focal atelectasis,1
+CXR2258_IM-0849-1001,CXR2258_IM-0849-2001,"Prominent interstitial markings in the central lungs and bases which may be secondary to low lung volumes with bronchovascular crowding, differential considerations include interstitial infiltrates of inflammatory or infectious etiology and mild pulmonary edema. Clinical correlation is recommended.",584,prominent interstitial marking central lung base may secondary low lung volume bronchovascular crowd differential consideration include interstitial infiltrates inflammatory infectious etiology mild pulmonary edema clinical correlation recommend,1
+CXR1694_IM-0455-1001,CXR1694_IM-0455-2001,"1. Vague increased sclerotic focus overlying the posterior spine on lateral XXXX, XXXX from prior study. Although this may be artifact or a pulmonary density, a XXXX sclerotic focus within the thoracic XXXX cannot be excluded. Bone scan would be helpful to evaluate for metastatic disease to the bone.",1283,vague increase sclerotic focus overlie posterior spine lateral xxxx xxxx prior study although may artifact pulmonary density xxxx sclerotic focus within thoracic xxxx can not exclude bone scan would helpful evaluate metastatic disease bone,1
+CXR2670_IM-1148-1001,CXR2670_IM-1148-1002,"Emphysematous changes with streaky opacities in the left perihilar and lingular regions, XXXX focal atelectasis and scarring.",474,emphysematous change streaky opacity left perihilar lingular region xxxx focal atelectasis scar,1
+CXR3190_IM-1505-1001,CXR3190_IM-1505-2001,Right upper lobe subsegmental atelectasis. No evidence of heart failure.,669,right upper lobe subsegmental atelectasis no evidence heart failure,1
+CXR2874_IM-1280-1001,CXR2874_IM-1280-2001,No acute cardiopulmonary disease. No evidence of metastatic disease to the lungs.,2952,no acute cardiopulmonary disease no evidence metastatic disease lung,1
+CXR3866_IM-1959-0001-0001,CXR3866_IM-1959-0001-0002,Patchy right middle lobe and lingular airspace disease compatible with multilobar pneumonia. .,1906,patchy right middle lobe lingular airspace disease compatible multilobar pneumonia,1
+CXR2267_IM-0856-1001,CXR2267_IM-0856-2001,Mildly limited study with lungs grossly clear.,834,mildly limited study lung grossly clear,1
+CXR3886_IM-1971-1001,CXR3886_IM-1971-2001,[&lt;The heart size and cardiomediastinal silhouette are stable and within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.&gt;] Extensive left upper quadrant splenic calcification may reflect old granulomatous disease,2539,lt heart size cardiomediastinal silhouette stable within normal limit pulmonary vasculature appear normal no focal air space consolidation no pleural effusion pneumothorax gt extensive left upper quadrant splenic calcification may reflect old granulomatous disease,1
+CXR3344_IM-1603-1001,CXR3344_IM-1603-2001,Ill-defined opacity projecting over midthoracic spine on lateral view corresponding with residual mass/nodularity seen XXXX scan from XXXX. Well-expanded lungs with no acute airspace disease. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.,615,ill define opacity project midthoracic spine lateral view correspond residual mass nodularity see xxxx scan xxxx well expand lung no acute airspace disease mediastinal contour within normal limit no acute cardiopulmonary abnormality identify,1
+CXR2246_IM-0843-1001,CXR2246_IM-0843-2001,Right lung base airspace disease and left base atelectasis.,3790,right lung base airspace disease left base atelectasis,1
+CXR2200_IM-0811-1001,CXR2200_IM-0811-2001,Low lung volumes. Bibasilar atelectasis versus scarring.,1149,low lung volume bibasilar atelectasis versus scar,1
+CXR145_IM-0290-1001,CXR145_IM-0290-2001,Large right pleural effusion and patchy left lower lobe airspace disease.,3464,large right pleural effusion patchy left low lobe airspace disease,1
+CXR1634_IM-0414-2002,CXR1634_IM-0414-3003,Hyperexpanded lung XXXX compatible with COPD. No evidence of acute cardiopulmonary abnormality. .,306,hyperexpanded lung xxxx compatible copd no evidence acute cardiopulmonary abnormality,1
+CXR1449_IM-0290-1001,CXR1449_IM-0290-2001,"1. Suspected cardiomegaly, less XXXX pericardial effusion. Prior comparison studies would be helpful. 2. Low lung volumes. No evidence of focal airspace disease. .",2426,suspect cardiomegaly less xxxx pericardial effusion prior comparison study would helpful low lung volume no evidence focal airspace disease,1
+CXR810_IM-2343-1001,CXR810_IM-2343-2001,No evidence of active cardiopulmonary disease.,3468,no evidence active cardiopulmonary disease,1
+CXR2538_IM-1050-1001,CXR2538_IM-1050-1002,No radiographic evidence of tuberculosis.,87,no radiographic evidence tuberculosis,1
+CXR3542_IM-1734-1001,CXR3542_IM-1734-2001,No acute cardiopulmonary abnormality. No radiographic evidence of metastatic disease in the chest.,527,no acute cardiopulmonary abnormality no radiographic evidence metastatic disease chest,1
+CXR1881_IM-0570-2001,CXR1881_IM-0570-3001,Negative. No significant change from XXXX.,2896,negative no significant change xxxx,1
+CXR218_IM-0792-0001,CXR218_IM-0792-4004,No acute cardiopulmonary abnormalities. Stable chronic lung disease. .,3777,no acute cardiopulmonary abnormality stable chronic lung disease,1
+CXR3095_IM-1448-1001,CXR3095_IM-1448-2001,Findings concerning for interstitial edema or infection.,1200,finding concern interstitial edema infection,1
+CXR101_IM-0011-2001,CXR101_IM-0011-4004,"1. Mild stable cardiomegaly and central vascular congestion. 2. Low lung volumes with elevated left hemidiaphragm and basilar subsegmental atelectasis. 3. Extensive bilateral shoulder degenerative changes with subluxation/dislocation left shoulder, possibly chronic. Suggest clinical correlation.",1001,mild stable cardiomegaly central vascular congestion low lung volume elevate left hemidiaphragm basilar subsegmental atelectasis extensive bilateral shoulder degenerative change subluxation dislocation left shoulder possibly chronic suggest clinical correlation,1
+CXR3730_IM-1864-1001,CXR3730_IM-1864-2001,Heart size is normal. No effusions. XXXX interstitial infiltrate in the left lung. Less XXXX on the right lung. This may represent lymphangitic spread of carcinoma. Other etiologies may include mycoplasma pneumonia or viral pneumonia. Ordering physician was notified of this finding at the time of the exam. Further evaluation may require CT with IV contrast and high-resolution scans.,1184,heart size normal no effusion xxxx interstitial infiltrate left lung less xxxx right lung may represent lymphangitic spread carcinoma etiology may include mycoplasma pneumonia viral pneumonia order physician notify find time exam evaluation may require ct iv contrast high resolution scan,1
+CXR3868_IM-1961-1001,CXR3868_IM-1961-1002,Heart size normal. Slight tortuous aorta. The lungs are clear. No effusions or edema,2279,heart size normal slight tortuous aorta lung clear no effusion edema,1
+CXR3152_IM-1484-1001,CXR3152_IM-1484-2001,"1. No acute findings. 2. Emphysema. 3. Scattered XXXX of scarring, most notably in the left upper lobe.",590,no acute finding emphysema scatter xxxx scar notably left upper lobe,1
+CXR122_IM-0147-0001-0001,CXR122_IM-0147-0001-0002,"No comparison chest x-XXXX. Minimal lingular scarring. Overall, Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.",2451,no comparison chest x xxxx minimal lingular scar overall well expand clear lung mediastinal contour within normal limit no acute cardiopulmonary abnormality identify,1
+CXR1284_IM-0188-2001,CXR1284_IM-0188-2001,1. Cardiac XXXX in stable position. 2. Increase in right and decrease in left basilar atelectasis.,1342,cardiac xxxx stable position increase right decrease left basilar atelectasis,1
+CXR144_IM-0283-1001,CXR144_IM-0283-1001,Mild patchy bibasilar airspace disease most XXXX representing atelectasis given the low lung volumes.,3692,mild patchy bibasilar airspace disease xxxx represent atelectasis give low lung volume,1
+CXR1066_IM-0047-1001,CXR1066_IM-0047-2001,Clear lungs. No discrete adenopathy or significant scarring. No active pulmonary disease.,2138,clear lung no discrete adenopathy significant scar no active pulmonary disease,1
+CXR3983_IM-2039-1001,CXR3983_IM-2039-2001,"1.There is a left basilar airspace opacity, which is concerning for pneumonia. 2. Right basilar atelectasis.",3008,left basilar airspace opacity concern pneumonia right basilar atelectasis,1
+CXR3393_IM-1637-1001,CXR3393_IM-1637-2001,"1. 7mm non calcified nodule, XXXX in appearance, recommend CT chest without contrast.",599,mm non calcify nodule xxxx appearance recommend ct chest without contrast,1
+CXR867_IM-2387-1001,CXR867_IM-2387-2001,"Borderline heart size and abnormal interstitial pulmonary pattern which may be compatible with chronic interstitial change, differential diagnosis is XXXX and includes asymmetric pulmonary edema, inflammation, atypical infection, infiltrative process. Comparison with previous exams would be of XXXX. Bilateral hilar fullness may indicate pulmonary hypertension and clinical correlation is recommended, differential diagnosis reactive lymphadenopathy, metastatic disease.",2477,borderline heart size abnormal interstitial pulmonary pattern may compatible chronic interstitial change differential diagnosis xxxx include asymmetric pulmonary edema inflammation atypical infection infiltrative process comparison previous exam would xxxx bilateral hilar fullness may indicate pulmonary hypertension clinical correlation recommend differential diagnosis reactive lymphadenopathy metastatic disease,1
+CXR2418_IM-0962-5001,CXR2418_IM-0962-5001,1. No acute cardiopulmonary abnormalities. 2. No displaced rib fractures are seen. .,2402,no acute cardiopulmonary abnormality no displace rib fracture see,1
+CXR1019_IM-0015-1001,CXR1019_IM-0015-2001,Blunting of the right costophrenic sulcus could be secondary to a XXXX effusion versus scarring. No focal airspace consolidation.,90,blunting right costophrenic sulcus could secondary xxxx effusion versus scar no focal airspace consolidation,1
+CXR2852_IM-1261-2001,CXR2852_IM-1261-3001,1. No acute bony abnormalities. 2. No acute cardiopulmonary abnormalities.,742,no acute bony abnormality no acute cardiopulmonary abnormality,1
+CXR2642_IM-1128-1001,CXR2642_IM-1128-3001,"1. Tracheostomy tube in satisfactory position with tip in the mid intrathoracic trachea. 2. Ill-defined 2.5 cm x 1.9 cm irregular density in the left lower lung, XXXX lower lobe. This is superimposed on a background of probable emphysematous lung. Although this could be scar, concern is for nodule, and further evaluation XXXX chest is recommended. A message was left with doctor XXXX' service at 142 pm XXXX/11. 3. Mild bilateral costophrenic XXXX blunting XXXX due to small bilateral pleural effusions versus due to the degree of lung hyperinflation. 4. Osteopenia. Minimal loss of XXXX of an upper thoracic vertebra. 5. Irregular 1.8 cm density projecting over the left posterior rib 8 XXXX callus with XXXX similar less severe changes involving the two subjacent ribs posteriorly. 6. Heart size normal.",3717,tracheostomy tube satisfactory position tip mid intrathoracic trachea ill define cm x cm irregular density left low lung xxxx low lobe superimpose background probable emphysematous lung although could scar concern nodule evaluation xxxx chest recommend message left doctor xxxx service pm xxxx mild bilateral costophrenic xxxx blunting xxxx due small bilateral pleural effusion versus due degree lung hyperinflation osteopenia minimal loss xxxx upper thoracic vertebra irregular cm density project left posterior rib xxxx callus xxxx similar less severe change involve two subjacent rib posteriorly heart size normal,1
+CXR716_IM-2278-0001-0001,CXR716_IM-2278-0001-0002,Slight cardiomegaly. Calcified hilar lymph XXXX. No edema or effusions.,1827,slight cardiomegaly calcify hilar lymph xxxx no edema effusion,1
+CXR506_IM-2124-1001,CXR506_IM-2124-3003,No x-XXXX evidence of metastatic disease.,1308,no x xxxx evidence metastatic disease,1
+CXR1126_IM-0082-1001,CXR1126_IM-0082-2001,"1. Minimal right basilar subsegmental atelectasis. Otherwise, no acute cardiopulmonary abnormality demonstrated. .",1049,minimal right basilar subsegmental atelectasis otherwise no acute cardiopulmonary abnormality demonstrate,1
+CXR628_IM-2208-3001,CXR628_IM-2208-4001,1. Stable aneurysmal enlargement of the XXXX and descending aorta. Chest CTA could be obtained as a XXXX. 2. Borderline heart size. 3. No acute pulmonary disease process.,997,stable aneurysmal enlargement xxxx descend aorta chest cta could obtain xxxx borderline heart size no acute pulmonary disease process,1
+CXR3769_IM-1888-4001,CXR3769_IM-1888-4001,"Low lung volumes with slightly increased perihilar opacities bilaterally, XXXX infectious etiology.",696,low lung volume slightly increase perihilar opacity bilaterally xxxx infectious etiology,1
+CXR35_IM-1704-1001,CXR35_IM-1704-1002,"Emphysema, however no acute cardiopulmonary finding.",2003,emphysema however no acute cardiopulmonary find,1
+CXR1073_IM-0053-1001,CXR1073_IM-0053-2001,1. No acute cardiopulmonary abnormality. 2. Chronic changes consistent with emphysema.,2056,no acute cardiopulmonary abnormality chronic change consistent emphysema,1
+CXR1244_IM-0166-1001,CXR1244_IM-0166-2001,1. Bibasilar airspace disease left greater than right. 2. Stable postsurgical changes with colonic interposition overlying the mediastinum.,1101,bibasilar airspace disease left great right stable postsurgical change colonic interposition overlie mediastinum,1
+CXR1351_IM-0228-1001,CXR1351_IM-0228-2001,"Heart size is normal. Stable dilated slightly tortuous aorta. Lungs are clear. No edema or effusions. No nodules, masses, or adenopathy.",475,heart size normal stable dilate slightly tortuous aorta lung clear no edema effusion no nodule mass adenopathy,1
+CXR327_IM-1552-1001,CXR327_IM-1552-2001,Stable chronic changes. No acute findings. .,2750,stable chronic change no acute finding,1
+CXR631_IM-2212-1001,CXR631_IM-2212-3001,Moderate hypoinflation with associated bibasilar atelectasis.,2951,moderate hypoinflation associate bibasilar atelectasis,1
+CXR2895_IM-1297-1001,CXR2895_IM-1297-1002,Heart size is normal and the lungs are clear. No fibrosis. No nodules or masses. Please XXXX XXXX XXXX XXXX XXXX to be followed up as per history,267,heart size normal lung clear no fibrosis no nodule mass please xxxx xxxx xxxx xxxx xxxx follow up per history,1
+CXR3093_IM-1446-1001,CXR3093_IM-1446-2001,Findings of COPD. No acute findings.,1691,finding copd no acute finding,1
+CXR142_IM-0267-1001,CXR142_IM-0267-2001,"No acute cardiopulmonary findings. Specifically, no radiographic evidence of active tuberculosis.",3202,no acute cardiopulmonary finding specifically no radiographic evidence active tuberculosis,1
+CXR954_IM-2448-12001,CXR954_IM-2448-12001,"Hyperinflated appearing lungs as before with some stable slightly prominent appearing interstitial markings most XXXX representing mild chronic inflammatory change. Stable biapical chronic inflammatory change with pleural thickening. No acute airspace disease, effusions, or CHF. Stable mediastinal contour. No XXXX acute abnormalities since the previous chest radiograph.",370,hyperinflated appear lung stable slightly prominent appear interstitial marking xxxx represent mild chronic inflammatory change stable biapical chronic inflammatory change pleural thicken no acute airspace disease effusion chf stable mediastinal contour no xxxx acute abnormality since previous chest radiograph,1
+CXR1202_IM-0136-1001,CXR1202_IM-0136-2001,Cardiomegaly and pulmonary venous hypertension.,3838,cardiomegaly pulmonary venous hypertension,1
+CXR297_IM-1361-2001,CXR297_IM-1361-4004,"Low lung volumes with mild, XXXX left basilar opacity, atelectasis versus infiltrate. .",2370,low lung volume mild xxxx left basilar opacity atelectasis versus infiltrate,1
+CXR126_IM-0176-2002,CXR126_IM-0176-2002,Vague opacity at the left lung base which appears to be within the left lower lobe. This may represent resolving or developing pneumonia given the patient's history.,2469,vague opacity left lung base appear within left low lobe may represent resolve develop pneumonia give patient history,1
+CXR3609_IM-1782-2001,CXR3609_IM-1782-3001,Borderline cardiomegaly. Otherwise unremarkable exam.,663,borderline cardiomegaly otherwise unremarkable exam,1
+CXR2042_IM-0686-1001,CXR2042_IM-0686-1002,"The heart size is normal. There is minimal fibronodular scarring right apex, otherwise lungs clear",3322,heart size normal minimal fibronodular scar right apex otherwise lung clear,1
+CXR2197_IM-0807-1001,CXR2197_IM-0807-2001,XXXX opacities in the right upper lobe anterior segment which may represent atelectasis or infiltrate.,2449,xxxx opacity right upper lobe anterior segment may represent atelectasis infiltrate,1
+CXR495_IM-2114-1001,CXR495_IM-2114-3003,Streaky air space disease may represent infiltrate. .,2515,streaky air space disease may represent infiltrate,1
+CXR2380_IM-0940-1001,CXR2380_IM-0940-3003,1. Continued elevation of the left hemidiaphragm. 2. No evidence of active disease.,2255,continued elevation left hemidiaphragm no evidence active disease,1
+CXR3410_IM-1648-1001,CXR3410_IM-1648-2001,XXXX change. COPD with no acute disease.,3091,xxxx change copd no acute disease,1
+CXR1506_IM-0330-1001,CXR1506_IM-0330-2001,"1. Stable and adequately placed XXXX. 2. Prominent pulmonary vasculature, subpleural edema, and peribronchial cuffing suggestive of volume overload versus viral bronchiolitis.",2819,stable adequately place xxxx prominent pulmonary vasculature subpleural edema peribronchial cuff suggestive volume overload versus viral bronchiolitis,1
+CXR3485_IM-1694-2002,CXR3485_IM-1694-3003,1. Hyperexpanded lungs consistent with emphysema. No evidence of active disease.,1140,hyperexpanded lung consistent emphysema no evidence active disease,1
+CXR355_IM-1739-1001,CXR355_IM-1739-2001,Chronic interstitial and bullous disease. No acute findings.,2986,chronic interstitial bullous disease no acute finding,1
+CXR67_IM-2243-13001,CXR67_IM-2243-8001,Low volumes with bronchovascular crowding. No acute abnormality.,983,low volume bronchovascular crowd no acute abnormality,1
+CXR669_IM-2242-2001,CXR669_IM-2242-3001,1. Cardiomegaly and mild vascular prominence. 2. No evidence of acute disease.,2707,cardiomegaly mild vascular prominence no evidence acute disease,1
+CXR3786_IM-1899-1001,CXR3786_IM-1899-1001,"Bilateral increasing consolidations, consistent with multifocal pneumonia.",290,bilateral increase consolidation consistent multifocal pneumonia,1
+CXR3017_IM-1393-1001,CXR3017_IM-1393-1001,Mild XXXX XXXX opacities with scarring; no acute disease.,3406,mild xxxx xxxx opacity scar no acute disease,1
+CXR74_IM-2296-2001,CXR74_IM-2296-2001,No acute pulmonary disease. Multiple thoracic XXXX deformities XXXX due to osteoporosis.,278,no acute pulmonary disease multiple thoracic xxxx deformity xxxx due osteoporosis,1
+CXR2307_IM-0882-1001,CXR2307_IM-0882-2001,Emphysema and scarring without acute disease,799,emphysema scar without acute disease,1
+CXR1414_IM-0264-1001,CXR1414_IM-0264-1002,Heart size normal. Lungs clear. Resolution of effusion seen on prior exam,2963,heart size normal lung clear resolution effusion see prior exam,1
+CXR3813_IM-1922-1001,CXR3813_IM-1922-2001,XXXX opacity left lung base..,566,xxxx opacity left lung base,1
+CXR1519_IM-0335-1001,CXR1519_IM-0335-4004,"Low lung volume exam. Otherwise, no acute findings. .",1623,low lung volume exam otherwise no acute finding,1
+CXR2764_IM-1209-1001,CXR2764_IM-1209-1001,Heart size is normal in the lungs are clear.,1121,heart size normal lung clear,1
+CXR1857_IM-0556-1001,CXR1857_IM-0556-4004,Mild cardiomegaly. Clear lungs. .,2744,mild cardiomegaly clear lung,1
+CXR2130_IM-0755-1001,CXR2130_IM-0755-2001,"1. Cardiomegaly with mild interstitial edema and XXXX posterior pleural effusion. 2. 17 mm nodular opacity in the left lung and 10 mm nodular opacity in the right lung. These lesions are XXXX and could be followed up radiographically after treatment of edema, or could be further characterized with CT.",3720,cardiomegaly mild interstitial edema xxxx posterior pleural effusion mm nodular opacity left lung mm nodular opacity right lung lesion xxxx could follow up radiographically treatment edema could characterize ct,1
+CXR904_IM-2409-3003,CXR904_IM-2409-3003,Stable appearance of the chest. No XXXX or acute finding on today's study.,2815,stable appearance chest no xxxx acute find today study,1
+CXR3191_IM-1505-1001,CXR3191_IM-1505-2001,Emphysema. No acute pulmonary findings.,575,emphysema no acute pulmonary finding,1
+CXR2661_IM-1142-1001,CXR2661_IM-1142-2001,Mild cardiomegaly without heart failure.,727,mild cardiomegaly without heart failure,1
+CXR3046_IM-1418-1001,CXR3046_IM-1418-1002,"1. Left perihilar nodular opacity redemonstrated, appears dense, may be granulomatous, if desired one may consider CT for further characterization. 2. No acute cardiopulmonary abnormality. Redemonstrated azygos lobe. 3. No fracture visible. If clinical concern persists, consider dedicated rib series.",1787,left perihilar nodular opacity redemonstrated appear dense may granulomatous desire one may consider ct characterization no acute cardiopulmonary abnormality redemonstrated azygos lobe no fracture visible clinical concern persists consider dedicate rib series,1
+CXR1589_IM-0382-1001,CXR1589_IM-0382-2001,Changes of chronic lung disease without acute cardiopulmonary abnormality identified.,3352,change chronic lung disease without acute cardiopulmonary abnormality identify,1
+CXR1464_IM-0301-1001,CXR1464_IM-0301-2001,No acute cardiopulmonary disease. Evidence of previous granulomatous infection.,2681,no acute cardiopulmonary disease evidence previous granulomatous infection,1
+CXR2063_IM-0700-1001,CXR2063_IM-0700-2001,Heart size is normal. Bilateral nipple shadows seen. 5 mm left lower lobe granuloma. Heart size normal. No effusions. Lungs clear,366,heart size normal bilateral nipple shadow see mm left low lobe granuloma heart size normal no effusion lung clear,1
+CXR3214_IM-1519-1001,CXR3214_IM-1519-2001,Large pericardial effusion.,3218,large pericardial effusion,1
+CXR53_IM-2138-1001,CXR53_IM-2138-2001,"Low lung volumes with right basilar atelectasis. Otherwise, no acute cardiopulmonary disease.",3723,low lung volume right basilar atelectasis otherwise no acute cardiopulmonary disease,1
+CXR3921_IM-1995-1001,CXR3921_IM-1995-2001,1. No acute cardiopulmonary abnormality.. 2. Interval placement of left-sided PICC line with tip XXXX in the innominate vein.,2412,no acute cardiopulmonary abnormality interval placement left side picc line tip xxxx innominate vein,1
+CXR1252_IM-0170-1001,CXR1252_IM-0170-1002,"Heart size is upper limits normal and lungs are clear. No pneumonia, edema, or effusions.",1379,heart size upper limit normal lung clear no pneumonia edema effusion,1
+CXR105_IM-0037-1001,CXR105_IM-0037-2001,XXXX bilateral effusions.,1967,xxxx bilateral effusion,1
+CXR1641_IM-0420-1001,CXR1641_IM-0420-2001,1. Left lower lobe airspace disease suspicious for pneumonia.,1187,left low lobe airspace disease suspicious pneumonia,1
+CXR2040_IM-0684-1001,CXR2040_IM-0684-1002,Cardiomegaly. No effusions or edema. Clear chest,3080,cardiomegaly no effusion edema clear chest,1
+CXR1257_IM-0174-1001,CXR1257_IM-0174-2001,1. Right basilar opacities favored to represent atelectasis. 2. Stigmata of XXXX cell disease. 3. Cholelithiasis.,1616,right basilar opacity favor represent atelectasis stigma xxxx cell disease cholelithiasis,1
+CXR3882_IM-1970-1001,CXR3882_IM-1970-2001,"Generalized low lung lungs with eventration of the left hemidiaphragm. Question concomitant left basilar opacity, may represent atelectasis or infiltrate.",2366,generalize low lung lung eventration left hemidiaphragm question concomitant left basilar opacity may represent atelectasis infiltrate,1
+CXR3219_IM-1520-1001,CXR3219_IM-1520-2001,"Heart size within normal limits, mild aortic ectasia/tortuosity. Hyperinflated lungs with XXXX left perihilar and bibasilar opacities which may be compatible with subsegmental atelectasis or scarring. Otherwise no focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema. Dense nodules in the left lung suggest a previous granulomatous process. Right upper abdominal coiled artifacts, question prior embolization procedure.",725,heart size within normal limit mild aortic ectasia tortuosity hyperinflated lung xxxx left perihilar bibasilar opacity may compatible subsegmental atelectasis scar otherwise no focal alveolar consolidation no definite pleural effusion see no typical finding pulmonary edema dense nodule left lung suggest previous granulomatous process right upper abdominal coil artifact question prior embolization procedure,1
+CXR1880_IM-0569-1001,CXR1880_IM-0569-1001,Left midlung pulmonary nodule. Comparison to a previous XXXX would be most helpful alternatively a noncontrast chest CT could be performed in the nonemergent setting for further characterization. No acute disease.,2758,left midlung pulmonary nodule comparison previous xxxx would helpful alternatively noncontrast chest ct could perform nonemergent set characterization no acute disease,1
+CXR172_IM-0474-1001,CXR172_IM-0474-1002,1. Heart size upper limits of normal with clear lungs. 2. Age-indeterminate XXXX deformity of an upper lumbar spine vertebral body.,985,heart size upper limit normal clear lung age indeterminate xxxx deformity upper lumbar spine vertebral body,1
+CXR1970_IM-0632-1001,CXR1970_IM-0632-2001,Borderline cardiomegaly without heart failure.,78,borderline cardiomegaly without heart failure,1
+CXR1993_IM-0650-1001,CXR1993_IM-0650-2001,Mild emphysema. Negative for acute cardiopulmonary abnormality.,3105,mild emphysema negative acute cardiopulmonary abnormality,1
+CXR3988_IM-2041-1001,CXR3988_IM-2041-2001,"No acute osseous abnormalities. If continued clinical concern for rib fracture dedicated rib films will be helpful. Left midlung, and left basilar streaky opacity may represent atelectasis.",447,no acute osseous abnormality continued clinical concern rib fracture dedicate rib film helpful left midlung left basilar streaky opacity may represent atelectasis,1
+CXR862_IM-2383-1001,CXR862_IM-2383-2001,No change. No active disease.,2242,no change no active disease,1
+CXR1925_IM-0599-1001,CXR1925_IM-0599-3003,Bihilar prominence may be secondary mild lymphoid enlargement. Followup chest x-XXXX versus further imaging XXXX may be indicated. Correlation with prior films would be helpful if available.,2290,bihilar prominence may secondary mild lymphoid enlargement followup chest x xxxx versus image xxxx may indicate correlation prior film would helpful available,1
+CXR2152_IM-0772-1001,CXR2152_IM-0772-2001,Normal exam,2932,normal exam,1
+CXR1661_IM-0437-1001,CXR1661_IM-0437-1001,1. Chest. No active disease. 2. Right shoulder. Healing scapular fracture.,2026,chest no active disease right shoulder heal scapular fracture,1
